@@ -52,7 +52,7 @@ In this exercise, We'll be assigning the new users to a security group.
 
 1. In NMM portal, Select **GROUPS** ***(1)*** from the left-hand side blade and then click on **Edit** ***(2)*** next to the **Standard AVD** group.
 
-   ![](media/3ss7.png)
+   ![](media/am18.png)
    
 1. Provide the following details to add users to the group, and click on **Save** ***(4)***
 
@@ -62,9 +62,9 @@ In this exercise, We'll be assigning the new users to a security group.
    
    ![](media/am7.png)
    
-1. Once the users are added to the **Standard AVD** group, click on the **drop-down** icon next to the edit button of the Standard AVD group and select the **Manage AVD desktops** option.
+1. Once the users are added to the **Standard AVD** group, click on the **drop-down** ***(1)*** icon next to the edit button of the Standard AVD group and select the **Manage AVD desktops** ***(2)*** option.
 
-   ![](media/3ss9.png)
+   ![](media/am19.png)
    
 1. Under **DESKTOP ASSIGNMENTS**, Select the **AVD-HP-01** ***(1)*** host pool and click on **Confirm** ***(2)***.
 
@@ -86,9 +86,9 @@ In this exercise, We'll be assigning the new users to a security group.
    
    ![](media/am8.png)
    
-1. Once the users are added to the **AVD MSOffice Users** group, click on the **drop-down** icon next to the edit button of the Standard AVD group and select the **Manage AVD desktops** option.
+1. Once the users are added to the **AVD MSOffice Users** group, click on the **drop-down** ***(1)*** icon next to the edit button of the Standard AVD group and select the **Manage AVD desktops** ***(2)*** option.
 
-   ![](media/am9.png)
+   ![](media/am20.png)
    
 1. Under **DESKTOP ASSIGNMENTS**, Select the **AVD-HP-01** ***(1)*** host pool and click on **Confirm** ***(2)***.
 
