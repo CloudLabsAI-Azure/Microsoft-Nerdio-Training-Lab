@@ -86,7 +86,7 @@ In this exercise, We'll be assigning the new users to a security group.
    
    ![](media/am8.png)
    
-1. Once the users are added to the **AVD MSOffice Users** group, click on the **drop-down** ***(1)*** icon next to the edit button of the Standard AVD group and select the **Manage AVD desktops** ***(2)*** option.
+1. Once the users are added to the **AVD MSOffice Users** group, click on the **drop-down** ***(1)*** icon next to the edit button of the AVD MSOffice Users group and select the **Manage AVD desktops** ***(2)*** option.
 
    ![](media/am20.png)
    
