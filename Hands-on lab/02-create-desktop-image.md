@@ -25,12 +25,12 @@ In this exercise, We'll be creating a Desktop Image as per the specifications in
 1. Provide the following details to add a desktop image, then click on **OK** ***(6)***.
 
    - NAME: **AVDImage** ***(1)***
-   - AZURE IMAGE: **Windows 10 (21H1) EVD - Gen2 (mutli-session)** ***(2)***
+   - AZURE IMAGE: **Windows 10 (21H1) EVD + Office ProPlus - Gen2 (mutli-session)** ***(2)***
    - VM SIZE: **D4s_v4 (4C/16GB/Standard)** ***(3)***
    - OS DISK: **128GB (E10/Standard SSD)** ***(4)***
    - Check **Join to AD** ***(5)***
 
-   ![](media/am12.png)
+   ![](media/2ss3.png)
    
    >**NOTE:** Image creation will take 25 to 30 minutes. You can continue with the lab as the image won't be used for host pool creation.
    
@@ -50,19 +50,23 @@ In this exercise, We'll be creating a Multi-User Desktop (Pooled) AVD Host pool 
 
    ![](media/2s6.png)
    
-1. Provide the following details to create the new host pool, then click on **OK** ***(10)***
+1. Provide the following details to create the new host pool, then click on **OK** ***(11)***
 
    - NAME: **AVD-HP-01** ***(1)***
    - DESKTOP EXPERIENCE: Select **Multi user desktop (pooled)** ***(2)***
    - DIRECTORY: Select **<inject key="Tenant FQDN" />** ***(1)*** from the drop down 
    - FSLOGIX: **Default profile (default)** ***(4)*** from the drop down  
+
+   ![](media/am13.png)
+   
    - NEW WORKSPACE: **AVD-WS-01** ***(5)***
    - NAME PREFIX: **AVD-SH** ***(6)***
    - DESKTOP IMAGE: **Windows 10 (21H1) EVD + Office ProPlus - Gen2 (mutli-session)** ***(7)***
    - VM SIZE: **D4s_v4 (4C/16GB/Standard)** ***(8)***
    - OS DISK: **128GB (E10/Standard SSD)** ***(9)***
+   - QUICK ASSIGN: **Leave it to default** ***(10)***
    
-   ![](media/am11.png)
+   ![](media/am14.png)
 
    On the **Manage AUTO-SCALE AVD-HP-01** page, Leave all the options to *default* and click on **Save**.
  
@@ -86,7 +90,7 @@ In this exercise, We'll be creating a Multi-User Desktop (Pooled) AVD Host pool 
    - Process hosts in groups of: **1** ***(6)***
    - Number of failures before aborting: **1** ***(7)***
 
-   ![](media/2ss13.png)
+   ![](media/am15.png)
    
    >**NOTE**: Session hosts creation will take around 30 to 40 minutes to complete. You can continue with the lab.
     
