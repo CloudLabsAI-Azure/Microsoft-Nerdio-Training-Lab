@@ -25,12 +25,12 @@ In this exercise, We'll be creating a Desktop Image as per the specifications in
 1. Provide the following details to add a desktop image, then click on **OK** ***(6)***.
 
    - NAME: **AVDImage** ***(1)***
-   - AZURE IMAGE: **Windows 10 (21H1) EVD + Office ProPlus - Gen2 (mutli-session)** ***(2)***
+   - AZURE IMAGE: **Windows 10 (21H1) EVD - Gen2 (mutli-session)** ***(2)***
    - VM SIZE: **D4s_v4 (4C/16GB/Standard)** ***(3)***
    - OS DISK: **128GB (E10/Standard SSD)** ***(4)***
    - Check **Join to AD** ***(5)***
 
-   ![](media/2ss3.png)
+   ![](media/am22.png)
    
    >**NOTE:** Image creation will take 25 to 30 minutes. You can continue with the lab as the image won't be used for host pool creation.
    
