@@ -164,7 +164,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
   
 1. Once the account is added. You'll be able to see your NMM account in the **ACCOUNTS** blade.
 
-   ![](media/s19.png)
+   ![](media/sa4.png)
 
 1. Click on the **Next** button present in the bottom-right corner of this lab guide.
 
