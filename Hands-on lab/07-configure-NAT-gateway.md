@@ -18,12 +18,12 @@ In this exercise, We'll be configuring the NAT gateway for the existing virtual 
    - RESOURCE GROUP: Select **AVD-RG** ***(2)*** from the drop down
    - REGION: **<inject key="Resource group Location" enableCopy="false" />** ***(3)***
    - VNET: **aadds-vnet** ***(4)***
-   - SUBNETS: **sessionhosts-subnet** ***(5)***
+   - SUBNETS: **aadds-subnet** ***(5)***
    - IDLE TIMEOUT: **5** ***(6)***
    - AVAILABILITY ZONE: **No Zone** ***(7)***
    - PUBLIC IP ADDRESS: Select **Create new Public IP** ***(8)*** and provide name as **NMM_NAT_IP** ***(9)***
 
-   ![](media/10s2.png)
+   ![](media/am21.png)
    
 1. Once the NAT gateway is created, You'll be able to see it under the NAT GATEWAY.
 
