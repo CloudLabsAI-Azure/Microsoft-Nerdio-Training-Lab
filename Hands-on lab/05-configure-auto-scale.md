@@ -10,17 +10,17 @@ In this exercise, We'll be configuring auto-scaling of an existing AVD Host Pool
    
 1. In NMM portal, Click on **AVD** ***(1)*** and Select **Host Pools** ***(2)***, then Click on **Manage Hosts** ***(3)*** next to AVD-HP-01 host pool
 
-   ![](media/up2.png)
+   ![](media/am23.png)
    
-1. Verify that the two session hosts exists under the AVD-HP-01 host pool.
+1. Verify that the session host exists under the AVD-HP-01 host pool.
 
-   ![](media/2ss14.png)
+   ![](media/am24.png)
     
-   >**NOTE**: If Session hosts are still deploying. Wait till the deployment completes.
+   >**NOTE**: If Session host is still deploying. Wait till the deployment completes.
 
 1. Click on Host Pools on the left-hand side blade ***(1)***, then click on the manage hosts button and navigate to **Auto-Scale> configure** ***(2)***.
 
-   ![](media/5s1.png)
+   ![](media/am25.png)
    
 1. Under **HOST POOL SIZING**, Set **Base host pool capacity** to ```3``` ***(1)*** and set **Burst beyond base capacity** to ```1``` ***(2)***. Under **SCALING LOGIC**, Set **Stop or remove (scale in) hosts only from:** ```7 p.m.``` to ```6 a.m.```. Select your time zone ***(4)***.
 
