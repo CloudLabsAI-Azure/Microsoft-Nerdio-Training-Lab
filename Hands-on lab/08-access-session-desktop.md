@@ -8,8 +8,6 @@ Azure Virtual Desktop (AVD) integrates virtual desktop infrastructure (VDI) and 
 
 In this exercise, we will access the Desktop and RemoteApps assigned to us in the previous exercise using the AVD Desktop client.
 
->#### **Note:** You have to perform this exercise in **Your Own PC/computer/workstation.** Do not perform this exercise within the JumpVM.
-
 1. From the JumpVM, Go to **Start** and search for **Remote desktop** and open the remote desktop application with the exact icon as shown below.
 
    ![ws name.](media/4s7.png)
