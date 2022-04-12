@@ -36,7 +36,7 @@ In this exercise, We'll be creating a Desktop Image as per the specifications in
    
 1. Once the image creation is completed. You'll be able to see the image in the Desktop image-side blade.
 
-   ![](media/2ss4.png)
+   ![](media/am17.png)
    
 ## Exercise 2: Create a Host Pool
 
