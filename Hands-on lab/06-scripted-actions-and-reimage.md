@@ -41,7 +41,7 @@
 
    ![](media/sa10.png)
    
-## Exercise 2: Add Rule set to enable App masking
+## Exercise 2: Reimage Session desktop and Add Rule set
    
 1. In the Host pools page, click on **Manage Hosts** ***(2)*** of AVD-HP-01 host pool.
 
