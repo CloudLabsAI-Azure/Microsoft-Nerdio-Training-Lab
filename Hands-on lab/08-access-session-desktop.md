@@ -1,4 +1,4 @@
-# Lab 8: Access the Desktop using AVD Desktop Client
+# Lab 8: Access the Desktop using Browser
 
 ## Overview
 
