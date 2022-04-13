@@ -1,4 +1,4 @@
-# Lab 6: Scripted actions and App masking
+# Lab 7: Scripted actions and App masking
 
 ## Overview
 
