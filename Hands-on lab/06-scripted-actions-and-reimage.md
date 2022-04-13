@@ -69,7 +69,7 @@
 
    - RULE SET NAME: **Microsoft Office** ***(1)***
    - Applications: Select **Microsoft 365 Apps for enterprise - en-us** ***(2)*** from the drop down
-   - Available to Everyone: **Uncheck** ***(3)***the option.
+   - Available to Everyone: **Uncheck** ***(3)*** the option.
    - Allow only the following users and groups: Type **AVD MSOffice Users** ***(4)*** and select the same.
 
    ![](media/sa12.png)
