@@ -54,7 +54,7 @@
    
 1. Click on the **drop-down** ***(1)*** icon next to the Power Off button of the session host and select the **Resize/Re-image** ***(2)*** option.
 
-   ![](media/sa6.png)
+   ![](media/sa11.png)
    
 1. In RESIZE OR RE-IMAGE SESSION HOST window. Select **AVD IMAGE** ***(1)*** from the drop-down of DESKTOP IMAGE and click on **OK** ***(2)***.
 
@@ -62,7 +62,7 @@
    
 1. A Task is created for Reimage VM in SESSION HOSTS TASKS. Click on details to check on job details.
 
-   ![](media/sa8.png)
+   ![](media/sa9.png)
    
    >**Note**: Please wait untill the Reimage task completes.
 
@@ -73,7 +73,9 @@
    - Available to Everyone: **Uncheck** ***(3)***the option.
    - Allow only the following users and groups: Type **AVD MSOffice Users** ***(4)*** and select the same.
 
-   ![](media/sa12.png)
+   ![](media/sa8.png)
+   
+   
  
 1. In APPLY RULE SETS ON HOST POOL VMS page, Select **Do not clear any rule sets, overwrite rule sets being applied only** ***(1)*** from the drop-down and click on **OK** ***(2)***.
 
