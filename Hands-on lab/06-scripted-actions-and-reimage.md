@@ -37,7 +37,7 @@
 1. In SCRIPTED ACTIONS, Provide the following details and click on **Save & Close** ***(3)***.
 
    - Run Scripted actions when host VM is CREATED: **Toggle On** ***(1)*** the option
-   - Windows scripts: Select **Install Microsoft 365 Office Apps(Individual with restart)(Nerdio Apps install).
+   - Windows scripts: Select **Install Microsoft 365 Office Apps(Individual with restart)(Nerdio Apps install)** ***(2)*** from the drop-down
 
    ![](media/sa10.png)
    
