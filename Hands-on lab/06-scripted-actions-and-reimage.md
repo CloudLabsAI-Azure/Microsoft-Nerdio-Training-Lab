@@ -26,11 +26,6 @@
 
    ![](media/2s5.png)
    
-   
-1. From the Account page, Click on **AVD** ***(1)*** and Select **Host Pools** ***(2)*** from the left-hand side blade.
-
-   ![](media/2s5.png)
-   
 1. Click on the **drop-down** ***(1)*** icon next to the manage button of the AVD-HP-01 host pool and select the **Properties** ***(2)*** option.
 
    ![](media/sa5.png)
