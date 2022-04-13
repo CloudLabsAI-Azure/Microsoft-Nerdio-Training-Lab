@@ -79,12 +79,15 @@
 
    ![](media/sa12.png)
    
-3. In APPLY RULE SETS ON HOST POOL VMS page, Select **Do not clear any rule sets, overwrite rule sets being applied only** ***(1)*** from the drop-down and click on **OK** ***(2)***.
+1. In APPLY RULE SETS ON HOST POOL VMS page, Select **Do not clear any rule sets, overwrite rule sets being applied only** ***(1)*** from the drop-down and click on **OK** ***(2)***.
 
    ![](media/sa13.png)
+   
+1. New Tasks will be created for applying the rule set. Wait untill the tasks completes. In meantime you can click on details and observe the execution for more details.
+
+   ![](media/sa15.png)
+   
+1. Click on the **Next** button present in the bottom-right corner of this lab guide.
 
 
-    
-   
-   
 
