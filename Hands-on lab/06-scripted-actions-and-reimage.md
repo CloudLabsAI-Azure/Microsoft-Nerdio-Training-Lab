@@ -78,7 +78,7 @@
 
    ![](media/sa13.png)
    
-1. New Tasks will be created for applying the rule set. Wait untill the tasks completes. In meantime you can click on details and observe the execution for more details.
+1. New Tasks will be created for applying the rule set. Wait untill the tasks completes. In meantime you can click on details and observe the creation process.
 
    ![](media/sa15.png)
    
