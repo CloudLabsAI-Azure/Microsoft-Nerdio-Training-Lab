@@ -65,7 +65,7 @@
 
    ![](media/sa14.png)
 
-1. In CREATE RULE SET page, Proive the following details and click on **Save & apply** ***(5)***.
+1. In CREATE RULE SET page, Provide the following details and click on **Save & apply** ***(5)***.
 
    - RULE SET NAME: **Microsoft Office** ***(1)***
    - Applications: Select **Microsoft 365 Apps for enterprise - en-us** ***(2)*** from the drop down
