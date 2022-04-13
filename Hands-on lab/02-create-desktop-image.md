@@ -25,7 +25,7 @@ In this exercise, We'll be creating a Desktop Image as per the specifications in
 1. Provide the following details to add a desktop image, then click on **OK** ***(6)***.
 
    - NAME: **AVDImage** ***(1)***
-   - AZURE IMAGE: **Windows 10 (21H1) EVD - Gen2 (mutli-session)** ***(2)***
+   - AZURE IMAGE: **Windows 10 (21H1) EVD - Gen2 (multi-session)** ***(2)***
    - VM SIZE: **D4s_v4 (4C/16GB/Standard)** ***(3)***
    - OS DISK: **128GB (E10/Standard SSD)** ***(4)***
    - Check **Join to AD** ***(5)***
@@ -33,6 +33,14 @@ In this exercise, We'll be creating a Desktop Image as per the specifications in
    ![](media/am22.png)
    
    >**NOTE:** Image creation will take 25 to 30 minutes. You can continue with the lab as the image won't be used for host pool creation.
+
+You can verify the status of image creation process as in **(1)** and also view details by clicking on **(2)**.
+
+   ![](media/am22.1.png)
+
+Details page would appear as below-
+
+   ![](media/am22.2.png)
    
 1. Once the image creation is completed. You'll be able to see the image in the Desktop image-side blade.
 
@@ -61,7 +69,7 @@ In this exercise, We'll be creating a Multi-User Desktop (Pooled) AVD Host pool 
    
    - NEW WORKSPACE: **AVD-WS-01** ***(5)***
    - NAME PREFIX: **AVD-SH** ***(6)***
-   - DESKTOP IMAGE: **Windows 10 (21H1) EVD + Office ProPlus - Gen2 (mutli-session)** ***(7)***
+   - DESKTOP IMAGE: **Windows 10 (21H1) EVD - Gen2 (multi-session)** ***(7)***
    - VM SIZE: **D4s_v4 (4C/16GB/Standard)** ***(8)***
    - OS DISK: **128GB (E10/Standard SSD)** ***(9)***
    - QUICK ASSIGN: **Leave it to default** ***(10)***
@@ -80,17 +88,15 @@ In this exercise, We'll be creating a Multi-User Desktop (Pooled) AVD Host pool 
 
    ![](media/2s12.png)
    
-1. Under ADD HOST TO POOL provide the following details, then click on **OK** ***(8)***
+1. Under ADD HOST TO POOL provide the following details, then click on **OK** ***(2)***
 
-   - HOST COUNT: **1** ***(1)***
-   - NAME PREFIX: **AVD-SH-** ***(2)***
-   - DESKTOP IMAGE: **Windows 10 (21H1) EVD - Gen2 (mutli-session)** ***(3)*** 
-   - VM SIZE: **D4s_v4 (4C/16GB/Standard)** ***(4)***
-   - OS DISK: **128GB (E10/Standard SSD)** ***(5)***
-   - Process hosts in groups of: **1** ***(6)***
-   - Number of failures before aborting: **1** ***(7)***
+   - HOST COUNT: **1**
+   - NAME PREFIX: **AVD-SH-** 
+   - DESKTOP IMAGE: **Windows 10 (21H1) EVD - Gen2 (multi-session)** 
+   - VM SIZE: **D4s_v4 (4C/16GB/Standard)** 
+   - OS DISK: **128GB (E10/Standard SSD)** 
 
-   ![](media/am16.png)
+   ![](media/am16.1.png)
    
    >**NOTE**: Session hosts creation will take around 30 to 40 minutes to complete. You can continue with the lab.
     
