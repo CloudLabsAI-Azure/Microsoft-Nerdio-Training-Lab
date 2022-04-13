@@ -8,7 +8,7 @@ A security group can have users, devices, groups, and service principals as its 
 
 In this exercise, We'll be creating new users for assigning them to the existing security group in order to access the AVD environment.
 
-1. Select **USERS** ***(1)*** from the left-hand side blade and click on **Add users** ***(2)***.
+1. Select **USERS** ***(1)*** from the left-hand side blade and click on **Add user** ***(2)***.
 
    ![](media/3s1.png)
    
