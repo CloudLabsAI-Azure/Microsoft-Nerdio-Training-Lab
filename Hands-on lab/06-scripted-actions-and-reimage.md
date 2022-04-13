@@ -54,17 +54,21 @@
    
 1. Click on the **drop-down** ***(1)*** icon next to the Power Off button of the session host and select the **Resize/Re-image** ***(2)*** option.
 
-   ![](media/sa11.png)
+   ![](media/sa7.png)
    
 1. In RESIZE OR RE-IMAGE SESSION HOST window. Select **AVD IMAGE** ***(1)*** from the drop-down of DESKTOP IMAGE and click on **OK** ***(2)***.
 
-   ![](media/sa7.png)
+   ![](media/sa8.png)
    
 1. A Task is created for Reimage VM in SESSION HOSTS TASKS. Click on details to check on job details.
 
    ![](media/sa9.png)
    
    >**Note**: Please wait untill the Reimage task completes.
+
+1. Go back to **Host pools** ***(1)*** page, Select **Manage** ***(1)*** > **Installed apps** ***(2)*** from the drop-down next to manage option of AVD-HP-01 host pool.
+
+   ![](media/sa14.png)
 
 1. In CREATE RULE SET page, Proive the following details and click on **Save & apply** ***(5)***.
 
@@ -75,9 +79,7 @@
 
    ![](media/sa8.png)
    
-   
- 
-1. In APPLY RULE SETS ON HOST POOL VMS page, Select **Do not clear any rule sets, overwrite rule sets being applied only** ***(1)*** from the drop-down and click on **OK** ***(2)***.
+3. In APPLY RULE SETS ON HOST POOL VMS page, Select **Do not clear any rule sets, overwrite rule sets being applied only** ***(1)*** from the drop-down and click on **OK** ***(2)***.
 
    ![](media/sa13.png)
 
