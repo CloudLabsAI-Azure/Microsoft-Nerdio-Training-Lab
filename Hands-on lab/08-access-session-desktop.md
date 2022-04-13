@@ -6,16 +6,14 @@ Azure Virtual Desktop (AVD) integrates virtual desktop infrastructure (VDI) and 
 
 ## Exercise 1: Access the Desktop using AVD Desktop Client
 
-In this exercise, we will access the Desktop and RemoteApps assigned to us in the previous exercise using the AVD Desktop client.
+In this exercise, we will access the Desktop and RemoteApps assigned to us in the previous exercise using AVD session from Browser.
 
-1. From the JumpVM, Go to **Start** and search for **Remote desktop** and open the remote desktop application with the exact icon as shown below.
+1. Open the following URL in a new browser tab in the JumpVM. This URL will lead us to the Remote Desktop Web Client.
 
-   ![ws name.](media/4s7.png)
+   ``` 
+   aka.ms/wvdarmweb 
+   ``` 
    
-1. Once the application opens, click on **Subscribe**.
-
-   ![ws name.](media/4s8.png)
-  
 1. Enter your **credentials** to access the workspace.
 
    - Username: *Paste your NMMUser 01 username* **<inject key="Nmm User 01" />** *and then click on **Next**.*
@@ -29,26 +27,56 @@ In this exercise, we will access the Desktop and RemoteApps assigned to us in th
    >**Note:** If there's a popup entitled **Help us protect your account** click **Skip for now (14 days until this is required)**
 
    ![](media/4s11.png)
-
-   Make sure to **uncheck** *Allow my organization to manage my device* and click on **No, sign in to this app only**.
-
-   ![ws name.](media/4s12.png)
    
-1. The AVD dashboard will launch, then double click on the **Session Desktop** to access it.
+1. In the All Resources tab, Click on **AVD-HP-01** icon to access the session desktop.
 
-    ![ws name.](media/4s13.png)
-    
-1. A window saying *Starting your app*, will appear. Wait for a few seconds, then enter the password of ***nmmuser01*** which you had copied earlier, and click on **OK**.
+   ![](media/ba1.png)
    
-    ![ws name.](media/4s14.1.png)
-    
-1. Wait for the Session Desktop to connect.
+1. In Access local resource pop-up window, Click on **Allow**.
 
-    ![ws name.](media/4s15.png)
-    
-1. Your virtual desktop will launch and look similar to the screenshot below. You can exit from the window by clicking on **X *i.e., the close button***. 
-        
-    ![ws name.](media/4s16.png)
+   ![](media/ba2.png)
+   
+1. In Enter your Credentials pop-up window, Proivde the Username and Password of NMM User 01 and click on **Submit**.
+
+   ![](media/ba3.png)
+   
+1. Once logged into thw session host, Search for **Word** application using the search bar. We won't be able to find the application as NMM User 01 is not part of AVD MSOffice users group.
+
+   ![](media/ba4.png)
+   
+1. Sign out from the session host by clicking on the **sign out** from top-right corner.
+
+   ![](media/ba9.png)
+   
+1. Enter your **credentials** to access the workspace.
+
+   - Username: *Paste your NMMUser 01 username* **<inject key="Nmm User 02" />** *and then click on **Next**.*
+   
+   ![ws name.](media/ba5.png)
+
+   - Password: Paste the password of ***nmmuser02*** which you had copied earlier *and click on **Sign in**.*
+
+   ![ws name.](media/ba6.png)
+   
+1. In the All Resources tab, Click on **AVD-HP-01** icon to access the session desktop.
+
+   ![](media/ba1.png)
+   
+1. In Access local resource pop-up window, Click on **Allow**.
+
+   ![](media/ba2.png)
+   
+1. In Enter your Credentials pop-up window, Proivde the Username and Password of NMM User 01 and click on **Submit**.
+
+   ![](media/ba7.png)
+   
+1. Once logged into thw session host, Search for **Word** ***(1)*** application using the search bar. We will be able to find the **Word application** ***(2)*** as NMM User 02 is part of AVD MSOffice users group. This confirms the working of App masking rule set.
+
+   ![](media/ba8.png)
+   
+1. Sign out from the session host by clicking on the **sign out** from top-right corner.
+
+   ![](media/ba10.png)
    
 ## Exercise 2: Verifying the User profiles stored in the File share
 
