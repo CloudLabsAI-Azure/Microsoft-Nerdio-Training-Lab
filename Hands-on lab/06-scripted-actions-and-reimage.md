@@ -77,7 +77,7 @@
    - Available to Everyone: **Uncheck** ***(3)***the option.
    - Allow only the following users and groups: Type **AVD MSOffice Users** ***(4)*** and select the same.
 
-   ![](media/sa13.png)
+   ![](media/sa12.png)
    
 3. In APPLY RULE SETS ON HOST POOL VMS page, Select **Do not clear any rule sets, overwrite rule sets being applied only** ***(1)*** from the drop-down and click on **OK** ***(2)***.
 
