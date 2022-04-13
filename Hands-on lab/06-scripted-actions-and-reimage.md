@@ -61,7 +61,7 @@
    
    >**Note**: Please wait untill the Reimage task completes.
 
-1. Go back to **Host pools** ***(1)*** page, Select **Manage** ***(1)*** > **Installed apps** ***(2)*** from the drop-down next to manage option of AVD-HP-01 host pool.
+1. Go back to **Host pools** ***(1)*** page, Select **Manage** ***(2)*** > **Installed apps** ***(3)*** from the drop-down next to manage option of AVD-HP-01 host pool.
 
    ![](media/sa14.png)
 
