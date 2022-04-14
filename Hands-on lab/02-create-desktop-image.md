@@ -92,6 +92,7 @@ In this exercise, We'll be creating a Multi-User Desktop (Pooled) AVD Host pool 
 
    - HOST COUNT: **1**
    - NAME PREFIX: **AVD-SH-** 
+   - Check mark on **Append a suffix**
    - DESKTOP IMAGE: **Windows 10 (21H1) EVD - Gen2 (multi-session)** 
    - VM SIZE: **D4s_v4 (4C/16GB/Standard)** 
    - OS DISK: **128GB (E10/Standard SSD)** 
