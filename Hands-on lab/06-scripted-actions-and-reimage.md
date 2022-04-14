@@ -59,7 +59,7 @@
 
    ![](media/sa9.png)
    
-   >**Note**: Please wait untill the Reimage task completes.
+   >**Note**: Please wait until the Reimage task completes.
 
 1. Go back to **Host pools** ***(1)*** page, Select **Manage** ***(2)*** > **Installed apps** ***(3)*** from the drop-down next to manage option of AVD-HP-01 host pool.
 
@@ -78,7 +78,7 @@
 
    ![](media/sa13.png)
    
-1. New Tasks will be created for applying the rule set. Wait untill the tasks completes. In meantime you can click on details and observe the creation process.
+1. New Tasks will be created for applying the rule set. Wait until the tasks completes. In meantime you can click on details and observe the creation process.
 
    ![](media/sa15.png)
    
