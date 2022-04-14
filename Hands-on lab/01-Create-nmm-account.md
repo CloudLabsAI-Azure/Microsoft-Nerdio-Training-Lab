@@ -100,7 +100,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
 
    ![](media/c10.png)
    
-1. In New user page, Provide **NMM Support** ***(1)*** as name and **NMM_Support@getnerdio.com** ***(2)*** as Email address. Then, Click on **Invite** ***(3)***.
+1. In New user page, Provide **NMM Support** ***(1)*** as name and `NMM_Support@getnerdio.com` ***(2)*** as Email address. Then, Click on **Invite** ***(3)***.
 
    ![](media/c11.png)
    
