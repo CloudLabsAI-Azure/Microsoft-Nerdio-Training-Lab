@@ -149,7 +149,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
    
    **B. STEP 2: NETWORKING**
    
-   - Select Azure region: **<inject key="Resource group Location" />** ***(1)***
+   - Select Azure region: **<inject key="Resource group Location" enableCopy="false" />** ***(1)***
    - Select or create Resource Group: **AVD-RG** ***(2)***
    - Select network: **aadds-subnet(10.0.0.0/24)** ***(3)***
    
