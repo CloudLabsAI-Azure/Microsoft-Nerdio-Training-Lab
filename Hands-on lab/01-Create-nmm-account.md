@@ -24,7 +24,7 @@ In this exercise, you'll be creating two security groups from the Azure Active D
 
    ![](media/ss7.png)
     
-5. Select the Group type as **Security** *****(1)*****, Group **Standard AVD** *****(2)***** and click on **Create** *****(3)*****. Your group will be created successfully.
+5. Select the Group type as **Security** *****(1)*****, Group name as **Standard AVD** *****(2)***** and click on **Create** *****(3)*****. Your group will be created successfully.
 
    ![](media/c2.png)
 
@@ -32,23 +32,23 @@ In this exercise, you'll be creating two security groups from the Azure Active D
 
    ![](media/ss7.png)
 
-7. Select the Group type as **Security** *****(1)*****, Group **AVD MSOffice Users** *****(2)***** and click on **Create** *****(3)*****. Your group will be created successfully.
+7. Select the Group type as **Security** *****(1)*****, Group name as **AVD MSOffice Users** *****(2)***** and click on **Create** *****(3)*****. Your group will be created successfully.
 
    ![](media/am1.png)
     
-8. Now in the **Groups | All groups**, Click on **Refresh** *****(1)*****. You will be able to see the two newly created groups named **Standard AVD** and **AVD MSOffice Users** *****(2)*****.
+8. Now in the **Groups | All groups**, Click on **Refresh** *****(1)*****. You will be able to see two newly created groups named **Standard AVD** and **AVD MSOffice Users** *****(2)*****.
 
    ![](media/am2.png)
 
 ## Exercise 2: Getting started with NMM
 
-In this exercise, you'll be accessing the NMM portal using the web app, registering for **Nerdio Manager for MSP** with the help of Powershell commands, and creating your own **NMM Account** from the **NMM Portal**.
+In this exercise, you'll be accessing the NMM portal using the web app, register for **Nerdio Manager for MSP** with the help of Powershell commands, and then create your own **NMM Account** from the **NMM Portal**.
 
 1. On the Azure portal search for **Resource groups** in the search bar *****(1)***** and select **Resource groups** *****(2)***** from the suggestions.
 
    ![](media/c5.png)
    
-1. Select **NMM-RESOURCES-RG** from the list of resource groups which is a dynamic RG created during the creation of the NMM resource. It contains all the required resources.
+1. Select **NMM-RESOURCES-RG** from the list of resource groups. This is a dynamic RG which is created during the creation of the NMM resource. It contains all the required resources.
 
    ![](media/ss1.png)
    
@@ -72,7 +72,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
     
    ![](media/s5.png)
    
-1. Use existing **JumpVM-RG** for the resource group. Create new storage account as **storage<inject key="DeploymentID" enableCopy="false" />** and File share as **blob**, then click on **Create storage** button.
+1. Select **Use existing** and **JumpVM-RG** for the resource group. Select **Create new** and storage account as **storage<inject key="DeploymentID" enableCopy="false" />** and for File share Select **Create new** and give name as **blob**, then click on **Create storage** button.
 
    ![](media/s6.png)
    
@@ -88,7 +88,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
    
 1. Provide the following details on the registration page, and click on **Register** *****(4)*****.
 
-   - Company: **Select the default subscription** ***(1)***
+   - Company: Let it be **Default subscription** ***(1)***
    - Name: **odl_user_<inject key="DeploymentID" enableCopy="false" />** ***(2)***
    - Email: **<inject key="AzureAdUserEmail" />** ***(3)***
    
@@ -105,6 +105,10 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
    - Grant access to Azure AD Tenant: Click on **Connect** ***(1)***, Follow the steps to Login into your Azure account.
 
    ![](media/s12.1.png)
+   
+   - If you get sign-in page like below, Click on selected account to sign-in.
+
+   ![](media/s12.1.1.png)
      
    Click on **Accept** to provide the necessary permission.
      
@@ -112,7 +116,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
      
    - Account name: Leave it to **Default value** ***(2)***
    - Desktop deployment model: Select **Azure Virtual Desktop** ***(3)*** 
-   - Select subscription: Select the **default subscription** from the drop down ***(4)***
+   - Select subscription: Select the **Subscription** from the drop down ***(4)***
    - Indicate your Active Directory setup: Select **Use existing Azure AD DS** ***(5)*** from the drop down
    
    Click on **Save & next** ***(6)*** and wait for the configuration to complete.
@@ -143,7 +147,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
    
    Select **Create new Azure Files share** ***(1)*** and click on **Add** ***(2)***.
    
-   ![](media/ss12.png)
+   ![](media/ss12.1.png)
    
    provide the following details to create a new storage account for FSLogix, and click on **OK** ***(8)***
 

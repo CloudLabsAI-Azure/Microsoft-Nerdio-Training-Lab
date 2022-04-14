@@ -79,7 +79,7 @@ In this exercise, We'll be enabling backup for the policies that we created in t
 
    ![](media/7s11.png)
    
-1. Under **ENABLE BACKUP**, select **nmmfilespolicy** ***(1)*** fromm the drop down and click on **OK** ***(2)***. 
+1. Under **ENABLE BACKUP**, select **nmmfilespolicy** ***(1)*** from the drop down and click on **OK** ***(2)***. 
 
    ![](media/7s12.png)
    
