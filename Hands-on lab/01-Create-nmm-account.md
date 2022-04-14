@@ -104,8 +104,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
 
    ![](media/c11.png)
    
-1. Once User is invited, Retry step 9 and the error will be resolved
-
+1. Once User is invited, Retry step 9 and the error will be resolved.
 
 1. Navigate back to the previous **browser tab** ***(1)*** and **refresh** ***(2)*** the web page. Click on **Accept** ***(3)*** to provide the neccessary permissions.
 
