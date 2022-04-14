@@ -50,7 +50,7 @@ In this exercise, we will access the Desktop and RemoteApps assigned to us in th
    
 1. Enter your **credentials** to access the workspace.
 
-   - Username: *Paste your NMMUser 01 username* **<inject key="Nmm User 02" />** *and then click on **Next**.*
+   - Username: *Paste your NMMUser 02 username* **<inject key="Nmm User 02" />** *and then click on **Next**.*
    
    ![ws name.](media/ba5.png)
 
@@ -66,11 +66,11 @@ In this exercise, we will access the Desktop and RemoteApps assigned to us in th
 
    ![](media/ba2.png)
    
-1. In Enter your Credentials pop-up window, Proivde the Username and Password of NMM User 01 and click on **Submit**.
+1. In Enter your Credentials pop-up window, Provide the Username and Password of NMM User 01 and click on **Submit**.
 
    ![](media/ba7.png)
    
-1. Once logged into thw session host, Search for **Word** ***(1)*** application using the search bar. We will be able to find the **Word application** ***(2)*** as NMM User 02 is part of AVD MSOffice users group. This confirms the working of App masking rule set.
+1. Once logged into the session host, Search for **Word** ***(1)*** application using the search bar. We will be able to find the **Word application** ***(2)*** as NMM User 02 is part of AVD MSOffice users group. This confirms the working of App masking rule set.
 
    ![](media/ba8.png)
    
@@ -90,7 +90,7 @@ In this exercise, you'll be verifying the user profiles stored in a file share i
 
    ![ws name.](media/4s18.1.png)
    
-1. Select **Fileshare** from the left side menu.
+1. Select **File shares** from the left side menu.
 
    ![ws name.](media/4s19.1.png)
    
