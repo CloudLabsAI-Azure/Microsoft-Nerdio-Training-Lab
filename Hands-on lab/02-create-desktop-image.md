@@ -88,16 +88,17 @@ In this exercise, We'll be creating a Multi-User Desktop (Pooled) AVD Host pool 
 
    ![](media/2s12.png)
    
-1. Under ADD HOST TO POOL provide the following details, then click on **OK** ***(2)***
+1. Under ADD HOST TO POOL provide the following details, then click on **OK** ***(8)***
 
-   - HOST COUNT: **1**
-   - NAME PREFIX: **AVD-SH-** 
-   - Check mark on **Append a suffix**
-   - DESKTOP IMAGE: **Windows 10 (21H1) EVD - Gen2 (multi-session)** 
-   - VM SIZE: **D4s_v4 (4C/16GB/Standard)** 
-   - OS DISK: **128GB (E10/Standard SSD)** 
+   - HOST COUNT: **1** ***(1)***
+   - NAME PREFIX: **AVD-SH-** ***(2)***
+   - DESKTOP IMAGE: **Windows 10 (21H1) EVD - Gen2 (mutli-session)** ***(3)*** 
+   - VM SIZE: **D4s_v4 (4C/16GB/Standard)** ***(4)***
+   - OS DISK: **128GB (E10/Standard SSD)** ***(5)***
+   - Process hosts in groups of: **1** ***(6)***
+   - Number of failures before aborting: **1** ***(7)***
 
-   ![](media/am16.1.png)
+   ![](media/am16.png)
    
    >**NOTE**: Session hosts creation will take around 30 to 40 minutes to complete. You can continue with the lab.
     
