@@ -82,6 +82,31 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
 
    >**NOTE**: The execution of the command will take 5 to 10 minutes to complete, Wait for the command to complete before proceeding with the lab.
 
+   >**Note**: In case if you face an issue related to inviting `NMM_Support@getnerdio.com`, Follow from Step 10 to step 15 . Else continue from step 16.
+
+1. Navigate to the Azure portal, then search for **Azure Active Directory** ***(1)*** in the search bar and select **Azure Active Directory** ***(2)*** from the suggestions.
+
+   ![](media/up1.png)
+    
+1. You will be directed towards the Azure Active Directory Overview window.
+
+   ![](media/ss5.png)
+   
+1. Click on the **Users** tab under the **Manage** blade.
+
+   ![](media/c9.png)
+   
+1. In Users page, Click on **New guest user**.
+
+   ![](media/c10.png)
+   
+1. In New user page, Provide **NMM Support** ***(1)*** as name and **NMM_Support@getnerdio.com** ***(2)*** as Email address. Then, Click on **Invite** ***(3)***.
+
+   ![](media/c11.png)
+   
+1. Once User is invited, Retry step 9 and the error will be resolved
+
+
 1. Navigate back to the previous **browser tab** ***(1)*** and **refresh** ***(2)*** the web page. Click on **Accept** ***(3)*** to provide the neccessary permissions.
 
    ![](media/c8.png)
