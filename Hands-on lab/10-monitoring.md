@@ -25,9 +25,11 @@ In this exercise, We'll be accessing the Azure Monitor using Nerdio Manager to m
 
    ![ws name.](media/9s7.png)
    
-1. Click on the **Users** *(1)* tab, Enter **<inject key="NMM User 01" />** *(2)* under **UPN to search for**, and wait for the data to load. This tab gives an overview of the user's usage. Scroll down and explore different information loaded.
+1. Click on the **Users** *(1)* tab, Enter **<inject key="NMM User 01" />** /**<inject key="NMM User 02" />** *(2)* under **UPN to search for**, and wait for the data to load. This tab gives an overview of the user's usage. Scroll down and explore different information loaded.
 
    ![ws name.](media/9s4.png)
+   
+**Note**: Generation of logs in users tab might take time. In case you are not able to see the logs, please consider changing the time range from overview page.   
    
 1. Click on the **Utilization** tab, This tab gives us information about sessions summary, core info, and more information about the utilization of resources.
 
