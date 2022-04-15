@@ -80,7 +80,7 @@ In this lab, We will use Remote Desktop client to verify Microsoft Office 365 ac
    
 ## Exercise 2: Verifying the User profiles stored in the File share
 
-In this exercise, you'll be verifying the user profiles stored in a file share in the Azure portal.
+In this exercise, We'll be verifying the user profiles stored in a file share in the Azure portal.
 
 1. From the Azure Portal, search for *storage accounts* in the search bar and click on **Storage Accounts** from the suggestions.
 
