@@ -34,11 +34,11 @@ In this exercise, We'll be creating a Desktop Image as per the specifications in
    
    >**NOTE:** Image creation will take 25 to 30 minutes. You can continue with the lab as the image won't be used for host pool creation.
 
-1   You can verify the status of image creation process as in **(1)** and also view details by clicking on **(2)**.
+1. You can verify the status of image creation process as in **(1)** and also view details by clicking on **(2)**.
 
-   ![](media/am22.1.png)
+   ![](media/c17.png)
 
-1.  Details page would appear as below:
+1. Details page would appear as below:
 
    ![](media/c14.png)
    
