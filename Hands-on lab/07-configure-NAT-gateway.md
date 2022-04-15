@@ -25,7 +25,7 @@ In this exercise, We'll be configuring the NAT gateway for the existing virtual 
 
    ![](media/am21.png)
    
-1. You can verify the status of NAT gateway creation process as in (1) and also view details by clicking on (2).
+1. You can verify the status of NAT gateway creation process as in **(1)** and also view details by clicking on **(2)**.
 
    ![](media/c20.png)
 
