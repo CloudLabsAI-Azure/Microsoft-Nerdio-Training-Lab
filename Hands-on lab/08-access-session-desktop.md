@@ -36,11 +36,11 @@ In this exercise, we will access the Desktop and RemoteApps assigned to us in th
 
    ![](media/ba2.png)
    
-1. In Enter your Credentials pop-up window, Proivde the Username and Password of NMM User 01 and click on **Submit**.
+1. In Enter your Credentials pop-up window, Provide the Username and Password of NMM User 01 and click on **Submit**.
 
    ![](media/ba3.png)
    
-1. Once logged into thw session host, Search for **Word** application using the search bar. We won't be able to find the application as NMM User 01 is not part of AVD MSOffice users group.
+1. Once logged into the session host, Search for **Word** application using the search bar. We won't be able to find the application as NMM User 01 is not part of AVD MSOffice users group.
 
    ![](media/ba4.png)
    
