@@ -38,22 +38,21 @@ In this lab, We will create new users using Nerdio manager. Nmmuser01 will be a 
 
 This is a read-only lab where we will explore about adding custom domain name to NMM app service. 
 
-## **Lab 5: Configure Autoscaling**
+## **Lab 5: Configure Networking: Add NAT gateway**
 
+In this lab, We will configure NAT gateway for existing virtual network to improve security and resiliency. 
+
+## **Lab 6: Configure Autoscaling**
 
 Desktop Auto-scaling is a unique feature which helps to optimize costs by paying only for the Nerdio resources used. Desktop auto-scaling takes advantage of the elasticity of cloud-hosted environments to increase or decrease resources as per individual customer requirements. The feature reduces the need for an operator to continually monitor the performance of a system and take decisions regarding adding or removing resources on demand.
 
 In this lab, We will configure Auto-scaling for the host pool to manage the cost efficiently using Nerdio manager. 
 
-## **Lab 6: Configure App Masking and Reimage the session desktops**
+## **Lab 7: Configure App Masking and Reimage the session desktops**
 
 In this lab, We will be reimaging the session desktop to install Microsoft Office 365 and we will configure app masking in order to provide access to the Office 365 by creating rule sets in Nerdio manager.
 
-## **Lab 7: Configure Networking: Add NAT gateway**
-
-In this lab, We will configure NAT gateway for existing virtual network to improve security and resiliency. 
-
-## **Lab 8: Access Session desktops: Access session desktop and QuickBooks**
+## **Lab 8: Access Session desktops: Access the Desktop using Browser**
 
 In this lab, We will use Remote Desktop client to verify Microsoft Office 365 access and we will access file share to check the implementation of FSLogix. 
 
