@@ -68,7 +68,7 @@ In this exercise, you'll view the costs of your resources using the Cost Estimat
    * CSP software discount:  **0** ***(7)***
    * Windows 365 software discount:  **0** ***(8)***
    * Azure CSP discount for RI:  **0** ***(9)***
-   * Azure region:  **East US** ***(10)***
+   * Azure region:  **<inject key="Resource group Location" enableCopy="false" />** ***(10)***
    * Currency:  **USD** ***(11)***
    * Click on **View costs** ***(12)*** 
    
