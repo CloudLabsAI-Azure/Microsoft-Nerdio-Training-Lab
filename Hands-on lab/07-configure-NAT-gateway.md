@@ -23,15 +23,15 @@ In this exercise, We'll be configuring the NAT gateway for the existing virtual 
    - AVAILABILITY ZONE: **No Zone** ***(7)***
    - PUBLIC IP ADDRESS: Select **Create new Public IP** ***(8)*** and provide name as **NMM_NAT_IP** ***(9)***
 
-   ![](media/c20.png)
+   ![](media/am21.png)
    
 1. You can verify the status of NAT gateway creation process as in (1) and also view details by clicking on (2).
 
-   ![](media/c21.png)
+   ![](media/c20.png)
 
 1. Details page would appear as below:
 
-   ![](media/am21.png)
+   ![](media/c21.png)
    
 1. Once the NAT gateway is created, You'll be able to see it under the NAT GATEWAY.
 
