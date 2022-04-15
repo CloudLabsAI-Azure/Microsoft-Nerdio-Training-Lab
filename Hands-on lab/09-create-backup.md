@@ -46,7 +46,7 @@ In this exercise, We'll be creating a recovery vault and backup policies in your
 
    ![](media/7s4.png)
    
-1. Under **ADD POLICY**, provide the following details and click on **Save** ***(7).
+1. Under **ADD POLICY**, provide the following details and click on **Save** ***(7)***.
 
    - NAME: **nmmfilespolicy** ***(1)***
    - TYPE: **Azure files policy** ***(2)***
