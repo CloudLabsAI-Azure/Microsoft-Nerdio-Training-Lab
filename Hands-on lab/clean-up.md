@@ -18,4 +18,6 @@
 
 1. In AVD-RG page, Click on **Locks** ***(1)*** from settings side blade and click on **Delete** ***(2)*** to delete the RG lock.
 
-   ![](media/C28.png)
+   ![](https://github.com/CloudLabsAI-Azure/Microsoft-Nerdio-Training-Lab/blob/main/Hands-on%20lab/media/c28.png?raw=true)
+   
+   
