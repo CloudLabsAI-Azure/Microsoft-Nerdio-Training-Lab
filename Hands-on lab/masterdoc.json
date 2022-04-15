@@ -28,11 +28,11 @@
         "Order": 6
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-Nerdio-Training-Lab/main/Hands-on%20lab/05-configure-auto-scale.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-Nerdio-Training-Lab/main/Hands-on%20lab/07-configure-NAT-gateway.md",
         "Order": 7
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-Nerdio-Training-Lab/main/Hands-on%20lab/07-configure-NAT-gateway.md",
+        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-Nerdio-Training-Lab/main/Hands-on%20lab/05-configure-auto-scale.md",
         "Order": 8
       },
       {
