@@ -1,5 +1,17 @@
 # Clean up resources
 
+1. From the NMM portal, Click on the **Nerdio** icon from left top bottom to go back to home page.
+
+   ![](media/c29.png)
+   
+1. Under **Accounts** ***(1)*** from the side blade, Click on the **drop-down** ***(1)*** icon next to the manage button of the default account and select the **Destroy** ***(2)*** option.
+
+   ![](media/c30.png)
+  
+1. In CONFIRM ACTION page, Type **CONFIRM** ***(1)*** in Do you want to permanently delete account AZURE HOL XX - XXXX? and click on **OK** ***(2)***.
+
+   ![](media/c31.png)
+
 1. From the Azure portal, click on **Resource Groups** present under *Navigate*.
 
    ![](media/gs9.png)
