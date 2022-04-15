@@ -25,7 +25,7 @@ In this exercise, We'll be creating new users for assigning them to the existing
 
    ![](media/3s3.png)    
    
-1. . Click on **Add users**, to create another user.
+1. In NMM portal, Select **USERS** ***(1)*** from the left-hand side blade click on **Add User** ***(2)***, to create another user.
 
    ![](media/3s4.png)
    
