@@ -1,4 +1,4 @@
-# Lab 6: Configure Network by adding NAT Gateway
+# Lab 5: Configure Network by adding NAT Gateway
 
 ## Overview
 
