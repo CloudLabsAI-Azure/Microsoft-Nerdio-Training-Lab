@@ -2,9 +2,11 @@
 
 ## Overview
 
-
+Scripted Actions are a library of PowerShell scripts that can be run in either Azure or AVD Virtual Machines as another step for various tasks performed by Nerdio Manager for MSP. Desktop Auto-scaling feature helps users optimize their costs by paying only for the Nerdio resources used. Desktop auto-scaling takes advantage of the elasticity of cloud-hosted environments to increase or decrease resources as per individual requirements.
 
 ## Exercise 1: Enable Scripted Actions
+
+In this exercise, We'll will enable scripted actions to install Microsoft Office 365.
 
 1. From the NMM portal, Click on the **Nerdio icon** from left top bottom to go back to home page.
 
@@ -42,6 +44,8 @@
    ![](media/sa10.png)
    
 ## Exercise 2: Reimage Session desktop and Add Rule set
+
+In this exercise, We'll reimage the existing session host using desktop image which we created in lab 2 to install Microsoft Office 365 application.
    
 1. In the Host pools page, click on **Manage Hosts** ***(2)*** of AVD-HP-01 host pool.
 
