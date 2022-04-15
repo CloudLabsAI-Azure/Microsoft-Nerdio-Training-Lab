@@ -59,7 +59,7 @@ In this exercise, We'll be creating a recovery vault and backup policies in your
 
 In this exercise, We'll be enabling backup for the policies that we created in the previous exercise.
    
-1. From the left-hand side blade, Click on **BACKUP** ***(1)*** and then click on **Enable backup** ***(2)*** for the first session host.
+1. From the left-hand side blade, Click on **BACKUP** ***(1)*** and then click on **Enable backup** ***(2)*** for the session host.
 
    ![](media/7s7.png)
    
@@ -67,13 +67,6 @@ In this exercise, We'll be enabling backup for the policies that we created in t
 
    ![](media/7s8.png)
    
-1. Similarly, click on **BACKUP** ***(1)*** and then click on **Enable backup** ***(2)*** for the second session host.
-
-   ![](media/7s9.png)
-   
-1. Under **ENABLE BACKUP**, Select **nmmvmpolicy** ***(1)*** from the drop down and click on **OK** ***(2)***.
-
-   ![](media/7s10.png)
    
 1. From the left-hand side blade, Click on **BACKUP** ***(1)*** and then click on **Enable backup** ***(2)*** for the *Azure Files share*.
 
