@@ -10,7 +10,7 @@
 
    ![](media/sa1.png)
       
-1. In home page, Click on **SCRIPTED ACTIONS** ***(1)*** and select **Windows scripts** ***(2)***. Then, Click on **drop down** ***(3)**** icon next to the view button of the Install Microsoft 365 Office Apps and select the **Assign Accounts** ***(2)*** option.
+1. In home page, Click on **SCRIPTED ACTIONS** ***(1)*** and select **Windows scripts** ***(2)***. Then, Click on **drop down** ***(3)**** icon next to the view button of the Install Microsoft 365 Office Apps and select the **Assign Accounts** ***(4)*** option.
 
    ![](media/sa2.png)
    
@@ -18,7 +18,7 @@
 
    ![](media/sa3.png)
    
-1. In the NMM portal, Under **Accounts** ***(1)*** from the side blade and click on **Manage** ***(2)*** next to the default NMM Account which we created in Lab 1.
+1. In the NMM portal, Under **ACCOUNTS** ***(1)*** from the side blade and click on **Manage** ***(2)*** next to the default NMM Account which we created in Lab 1.
 
    ![](media/sa4.png)
    
@@ -55,7 +55,7 @@
 
    ![](media/sa8.png)
    
-1. A Task is created for Reimage VM in SESSION HOSTS TASKS. Click on details to check on job details.
+1. A Task is created for Reimage VM in SESSION HOSTS TASKS. Click on **Details** to check on job details.
 
    ![](media/sa9.png)
    
@@ -67,7 +67,7 @@
 
 1. In CREATE RULE SET page, Provide the following details and click on **Save & apply** ***(5)***.
 
-   - RULE SET NAME: **Microsoft Office** ***(1)***
+   - RULE SET NAME: **MS Office** ***(1)***
    - Applications: Select **Microsoft 365 Apps for enterprise - en-us** ***(2)*** from the drop down
    - Available to Everyone: **Uncheck** ***(3)*** the option.
    - Allow only the following users and groups: Type **AVD MSOffice Users** ***(4)*** and select the same.
