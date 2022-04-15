@@ -86,7 +86,7 @@ In this exercise, you'll be verifying the user profiles stored in a file share i
 
    ![ws name.](media/4s17.png)
    
-1. Select the **fslogix{deploymentid}** storage account which was created while creating the NMM account.
+1. Select the **fslogix<inject key="DeploymentID" enableCopy="false" />** storage account which was created while creating the NMM account.
 
    ![ws name.](media/4s18.1.png)
    
@@ -98,9 +98,9 @@ In this exercise, you'll be verifying the user profiles stored in a file share i
 
    ![ws name.](media/4s20.png)
    
-1. You will see the user folder created in the file share, click on the folder.
+1. You will see the user folder created in the file share, click on any one of the folder.
 
-   ![ws name.](media/4s21.png)
+   ![ws name.](media/c26.png)
    
 7. Now you will be able to see the user profiles data stored in the filesharers in a ***.vhd*** format.
 
