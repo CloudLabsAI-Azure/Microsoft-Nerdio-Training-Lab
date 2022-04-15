@@ -64,6 +64,24 @@
 1. Go back to **Host pools** ***(1)*** page, Select **Manage** ***(2)*** > **Installed apps** ***(3)*** from the drop-down next to manage option of AVD-HP-01 host pool.
 
    ![](media/sa14.png)
+   
+   >**Note**: In case if you don't see the **Last discovered apps** notfication in the rule set page. Follow step 6 to step 7.  Else continue from step 8. 
+
+   ![](media/c23.png)
+   
+1. In AVD-HP-01 FSLOGIX RULE SETS page, Click on **Discover apps**.
+
+   ![](media/c24.png)
+   
+1. In Discover apps page, Select the **default session host** ***(1)*** from the drop-down and click on **Run now** ***(2)*** 
+   
+   ![](media/c25.png)
+   
+   >**Note**: Wait till the Discover apps task completes.
+   
+1. In AVD-HP-01 FSLOGIX RULE SETS page, Click on **Add rule set**.
+
+   ![](media/c22.png)
 
 1. In CREATE RULE SET page, Provide the following details and click on **Save & apply** ***(5)***.
 
