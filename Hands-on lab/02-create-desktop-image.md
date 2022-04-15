@@ -38,9 +38,9 @@ You can verify the status of image creation process as in **(1)** and also view 
 
    ![](media/am22.1.png)
 
-Details page would appear as below-
+Details page would appear as below:
 
-   ![](media/am22.2.png)
+   ![](media/c14.png)
    
 1. Once the image creation is completed. You'll be able to see the image in the Desktop image-side blade.
 
