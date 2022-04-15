@@ -32,9 +32,9 @@ In this exercise, We'll be configuring auto-scaling of an existing AVD Host Pool
    - Timezone: **Select your default time zone** ***(2)***
    - Work days: **Monday-Friday** ***(3)***
    - Start of work hours: **7 a.m.** ***(4)***
-   - Hosts to be active by start of work hours: **2** ***(5)***
+   - Hosts to be active by start of work hours: **1** ***(5)***
 
-   ![](media/5s3.png)
+   ![](media/c19.png)
    
 1. Click on the **Next** button present in the bottom-right corner of this lab guide.
 
