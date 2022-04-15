@@ -10,7 +10,7 @@
 
    ![](media/sa1.png)
       
-1. In home page, Click on **SCRIPTED ACTIONS** ***(1)*** and select **Windows scripts** ***(2)***. Then, Click on **drop down** ***(3)**** icon next to the view button of the Install Microsoft 365 Office Apps and select the **Assign Accounts** ***(4)*** option.
+1. In home page, Click on **SCRIPTED ACTIONS** ***(1)*** and select **Windows scripts** ***(2)***. Then, Click on **drop down** ***(3)*** icon next to the view button of the Install Microsoft 365 Office Apps and select the **Assign Accounts** ***(4)*** option.
 
    ![](media/sa2.png)
    
