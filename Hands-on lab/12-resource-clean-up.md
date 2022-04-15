@@ -12,7 +12,7 @@
 
    ![](media/cu1.png)
    
-1. Go back to **Resource Groups** page and click **AVD-RG** to open the resource group.
+1. Go back to **Resource Groups** page and click on **AVD-RG** to open the resource group.
 
    ![](media/C27.png) 
 
