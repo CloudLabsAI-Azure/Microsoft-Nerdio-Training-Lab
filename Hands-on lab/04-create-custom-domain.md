@@ -35,7 +35,7 @@ A custom domain is a unique branded label that's connected to the IP address of 
    - Value: the app service default URL
    - TTL: **1800** (or your preferred default)
    
-1. Click on **Add custom domains** ***(1)***. Under **Add custom domains**, Provide **nmm.mynerdio.com** ***(2)*** for custom domain option and click on **Validate** ***(3)***.
+1. Click on **Add custom domains** ***(1)***. Under **Add custom domains**, Provide **nmm-amol-demo.nerdio.net** ***(2)*** for custom domain option and click on **Validate** ***(3)***.
    
    ![](media/6s2.png)
    
