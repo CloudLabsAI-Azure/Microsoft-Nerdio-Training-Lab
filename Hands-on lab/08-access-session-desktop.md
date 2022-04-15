@@ -2,11 +2,11 @@
 
 ## Overview
 
-Azure Virtual Desktop (AVD) integrates virtual desktop infrastructure (VDI) and the cloud. AVD is Microsoft Azure’s platform-as-a-service (PaaS) offering from Microsoft. It enables small to large cloud consumers to provide remote applications and full desktops from Microsoft cloud to their end-users. Azure Files is also a  platform service (PaaS) and is one of the recommended solutions for hosting FSLogix containers for AVD users. In this lab, you'll be accessing the Desktop using the AVD Desktop Client and verifying the User profiles stored in the File share
+Azure Virtual Desktop (AVD) integrates virtual desktop infrastructure (VDI) and the cloud. AVD is Microsoft Azure’s platform-as-a-service (PaaS) offering from Microsoft. It enables small to large cloud consumers to provide remote applications and full desktops from Microsoft cloud to their end-users. Azure Files is also a  platform service (PaaS) and is one of the recommended solutions for hosting FSLogix containers for AVD users. In this lab, you'll be accessing the Desktop using browser and verifying the User profiles stored in the File share
 
 ## Exercise 1: Access the Desktop using AVD Desktop Client
 
-In this exercise, we will access the Desktop and RemoteApps assigned to us in the previous exercise using AVD session from Browser.
+In this lab, We will use Remote Desktop client to verify Microsoft Office 365 access and we will access file share to check the implementation of FSLogix.
 
 1. Open the following URL in a new browser tab in the JumpVM. This URL will lead us to the Remote Desktop Web Client.
 
