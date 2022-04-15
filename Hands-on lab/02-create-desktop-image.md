@@ -62,7 +62,7 @@ In this exercise, We'll be creating a Multi-User Desktop (Pooled) AVD Host pool 
 
    - NAME: **AVD-HP-01** ***(1)***
    - DESKTOP EXPERIENCE: Select **Multi user desktop (pooled)** ***(2)***
-   - DIRECTORY: Select **<inject key="Tenant FQDN" />** ***(1)*** from the drop down 
+   - DIRECTORY: Select **<inject key="Tenant FQDN" />** ***(3)*** from the drop down 
    - FSLOGIX: **Default profile (default)** ***(4)*** from the drop down  
 
    ![](media/am13.png)
