@@ -132,7 +132,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
    
    - If you get sign-in page like below, Click on selected account to sign-in.
 
-   ![](media/s12.1.1.png)
+   ![](media/c32.png)
      
    Click on **Accept** to provide the necessary permission.
      
