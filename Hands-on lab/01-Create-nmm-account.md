@@ -192,7 +192,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
   
 1. Once the account is added. You'll be able to see your NMM account in the **ACCOUNTS** blade.
 
-   ![](media/sa4.png)
+   ![](media/c15.png)
    
    You can verify the status of Account creation process as in (1) and also view details by clicking on (2).
 
