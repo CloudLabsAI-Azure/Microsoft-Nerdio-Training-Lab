@@ -1,4 +1,4 @@
-# Lab 5: Configure Auto Scaling
+# Lab 6: Configure Auto Scaling
 
 ## Overview
 
