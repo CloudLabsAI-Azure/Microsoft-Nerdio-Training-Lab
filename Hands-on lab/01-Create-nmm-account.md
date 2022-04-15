@@ -196,7 +196,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
    
 1. You can verify the status of Account creation process as in (1) and also view details by clicking on (2).
 
-   ![](media/c12.png)
+   ![](media/c18.png)
 
 1. Details page would appear as below:
 
