@@ -81,7 +81,7 @@ In this exercise, We'll reimage the existing session host using desktop image wh
    
    ![](media/c25.png)
    
-   >**Note**: Wait till the Discover apps task completes.
+   >**Note**: Please wait until the Discover apps task completes.
    
 1. In AVD-HP-01 FSLOGIX RULE SETS page, Click on **Add rule set**.
 
