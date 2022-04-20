@@ -55,7 +55,7 @@ In this exercise, We'll reimage the existing session host using desktop image wh
 
    ![](media/cna44.png) 
    
-   >**Note**: Incase the image creation has failed with ERROR status. Please **Resume** **(1)** the task and wait till the image creation completes.
+   >**Note**: Incase the image creation has failed with **ERROR** **(1)** status. Please **Resume** **(2)** the task and wait till the image creation completes.
 
    ![](media/cna45.png) 
    
