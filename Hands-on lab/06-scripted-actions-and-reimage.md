@@ -75,11 +75,13 @@ In this exercise, We'll reimage the existing session host using desktop image wh
 
    ![](media/sa8.png)
    
-1. A Task is created for Reimage VM in SESSION HOSTS TASKS. Click on **Details** to check on job details.
+1. A Task is created for Reimage VM in SESSION HOSTS TASKS. You can verify the status of reimage creation process as in (1) and also view details by clicking on (2).
 
-   ![](media/sa9.png)
+   ![](media/c35.png)
    
-   >**Note**: Please wait until the Reimage task completes.
+1. Details page would appear as below.
+
+   ![](media/c36.png)
 
 1. Go back to **Host pools** ***(1)*** page, Select **Manage** ***(2)*** > **Installed apps** ***(3)*** from the drop-down next to manage option of AVD-HP-01 host pool.
 
