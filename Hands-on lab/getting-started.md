@@ -40,7 +40,7 @@
 
    ![](media/gs9.png)
 
-5. You will see a list of resource groups as shown in the image below. Click on **NMM-RG** to open it.
+5. You will see a list of resource groups as shown in the image below. Click on **NMM-RG** to open it. Explore the different types resources used thorugh out the lab.
 
    ![](media/gs10.png)
    
