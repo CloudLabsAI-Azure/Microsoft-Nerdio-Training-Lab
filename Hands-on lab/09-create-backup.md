@@ -76,7 +76,15 @@ In this exercise, We'll be enabling backup for the policies that we created in t
 
    ![](media/7s12.png)
    
-1. Click on the **Next** button present in the bottom-right corner of this lab guide.
+1. A Task is created for Back up of Session host and file share. You can verify the status of back up creation process as in (1) and also view details by clicking on **details** to view the job details(2).
+
+   ![](media/c37.png)
+
+1. Once the back up tasks are completed. You'll be able to see back enabled for session hosts and file share.
+
+   ![](media/c38.png)
+   
+3. Click on the **Next** button present in the bottom-right corner of this lab guide.
 
 
 
