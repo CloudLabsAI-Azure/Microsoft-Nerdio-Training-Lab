@@ -52,7 +52,7 @@ In this lab, We will configure Auto-scaling for the host pool to manage the cost
 
 In this lab, We will be reimaging the session desktop to install Microsoft Office 365 and we will configure app masking in order to provide access to the Office 365 by creating rule sets in Nerdio manager.
 
-## **Lab 8: Access Session desktops: Access the Desktop using Browser**
+## **Lab 8: Access Session desktop using Browser**
 
 In this lab, We will use Remote Desktop client to verify Microsoft Office 365 access and we will access file share to check the implementation of FSLogix. 
 
