@@ -73,7 +73,7 @@ A custom domain is a unique branded label that's connected to the IP address of 
 
    ![](media/6s11.png)
    
-1. Verify that your custom domain for NMM works by navigating to **https://your custom domain/**.
+1. Verify that your custom domain for NMM works by navigating to `https://your custom domain/`.
 
 1. Click on the **Next** button present in the bottom-right corner of this lab guide.
 
