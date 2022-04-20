@@ -45,7 +45,7 @@ A custom domain is a unique branded label that's connected to the IP address of 
    
 1. To ensure traffic to the new domain is secure, click **Add binding** under SSL binding:
    
-   ![](media/6s5.png)
+   ![](media/c34.png)
    
 1. Click **Upload PFX Certificate** to provide the export of your certificate file.
 
