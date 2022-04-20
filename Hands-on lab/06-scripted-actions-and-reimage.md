@@ -82,6 +82,8 @@ In this exercise, We'll reimage the existing session host using desktop image wh
 1. Details page would appear as below.
 
    ![](media/c36.png)
+   
+   >**Note**: Since Reimaging task takes around 20 - 30 minutes to complete. You can perform **Lab 11: Cost Estimator** as it is a independent lab. Once completing the Lab 11, You can revisit the step to continue this lab.
 
 1. Go back to **Host pools** ***(1)*** page, Select **Manage** ***(2)*** > **Installed apps** ***(3)*** from the drop-down next to manage option of AVD-HP-01 host pool.
 
