@@ -59,9 +59,9 @@ In this exercise, We'll reimage the existing session host using desktop image wh
 
    ![](media/cna45.png) 
    
-1. In the NMM portal, Under **Accounts** ***(1)*** from the side blade and click on **Manage** ***(2)*** next to the default NMM Account which we created in Lab 1.
+1. In the NMM portal, Click on **AVD** ***(1)*** and Select **Host Pools** ***(2)*** from the left-hand side blade.
 
-   ![](media/2s1.png)
+   ![](media/2s5.png)
    
 1. In the Host pools page, click on **Manage Hosts** ***(2)*** of AVD-HP-01 host pool.
 
