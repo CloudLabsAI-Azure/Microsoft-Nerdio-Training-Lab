@@ -46,6 +46,22 @@ In this exercise, We'll will enable scripted actions to install Microsoft Office
 ## Exercise 2: Reimage Session desktop and Add Rule set
 
 In this exercise, We'll reimage the existing session host using desktop image which we created in lab 2 to install Microsoft Office 365 application.
+
+1. In the NMM portal, Under **Accounts** ***(1)*** from the side blade and click on **Manage** ***(2)*** next to the default NMM Account which we created in Lab 1.
+
+   ![](media/2s1.png)
+   
+1. Select **DESKTOP IMAGES** ***(1)*** from the left-hand side blade, Make sure that the **AVDImage image creation** **(2)** is completed successfully and is ready for use **(3)**.
+
+   ![](media/cna44.png) 
+   
+   >**Note**: Incase the image creation has failed with ERROR status. Please **Resume** **(1)** the task and wait till the image creation completes.
+
+   ![](media/cna45.png) 
+   
+1. In the NMM portal, Under **Accounts** ***(1)*** from the side blade and click on **Manage** ***(2)*** next to the default NMM Account which we created in Lab 1.
+
+   ![](media/2s1.png)
    
 1. In the Host pools page, click on **Manage Hosts** ***(2)*** of AVD-HP-01 host pool.
 
