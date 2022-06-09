@@ -62,7 +62,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
    
 1. From the Nerdio portal, Click on the **Copy** *****(1)***** button to copy the PowerShell command and paste it into the Notepad as you'll be using later in the lab, and then click on the **Launch Azure Cloud Shell** *****(2)*****.
  
-   ![](media/c6.png)
+   ![](media/nm4.png)
    
 1. Now you'll be redirected to **Welcome to Azure Cloud Shell** window, Here click on **PowerShell**.
 
