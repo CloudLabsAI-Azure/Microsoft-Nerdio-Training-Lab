@@ -44,7 +44,7 @@ In this exercise, We'll be creating new users for assigning them to the existing
    
 1. Once the user creation is completed. You'll be able to see new users on the **USERS** page in the NMM portal.
 
-   ![](media/3s11.png)
+   ![](media/nm5.png)
    
 ## Exercise 2: Assign new users to security group
 
