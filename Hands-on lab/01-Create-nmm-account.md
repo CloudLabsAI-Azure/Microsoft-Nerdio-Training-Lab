@@ -26,7 +26,7 @@ In this exercise, you'll be creating two security groups from the Azure Active D
     
 5. Select the Group type as **Security** *****(1)*****, Group name as **Standard AVD** *****(2)***** and click on **Create** *****(3)*****. Your group will be created successfully.
 
-   ![](media/c2.png)
+   ![](media/s21.png)
 
 6. Again click on **New group**.
 
@@ -34,7 +34,7 @@ In this exercise, you'll be creating two security groups from the Azure Active D
 
 7. Select the Group type as **Security** *****(1)*****, Group name as **AVD MSOffice Users** *****(2)***** and click on **Create** *****(3)*****. Your group will be created successfully.
 
-   ![](media/am1.png)
+   ![](media/s20.png)
     
 8. Now in the **Groups | All groups**, Click on **Refresh** *****(1)*****. You will be able to see two newly created groups named **Standard AVD** and **AVD MSOffice Users** *****(2)*****.
 
