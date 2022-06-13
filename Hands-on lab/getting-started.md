@@ -40,9 +40,9 @@
 
    ![](media/gs9.png)
 
-5. You will see a list of resource groups as shown in the image below. Click on **NMM-RG** to open it. Explore the different types resources used thorugh out the lab.
+5. You will see a list of resource groups as shown in the image below. Click on **AVD-RG** to open it. Explore the different types resources neccessary for deploying Nerdio Manager for MSPs.
 
-   ![](media/gs10.png)
+   ![](media/nm6.png)
    
 Click on the **Next** button present in the bottom-right corner of this lab guide.
 
