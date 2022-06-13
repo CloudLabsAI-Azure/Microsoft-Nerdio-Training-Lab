@@ -93,6 +93,8 @@ In this exercise, you'll be accessing the azure portal to create NMM, NMM portal
 
    ![](media/ss3.png)
    
+   >**Note**: If the web page doesn't load. Please wait for 2 - 3 minutes or restart the App services and try to access the web page again.
+   
 1. From the Nerdio portal, Click on the **Copy** *****(1)***** button to copy the PowerShell command and paste it into the Notepad as you'll be using later in the lab, and then click on the **Launch Azure Cloud Shell** *****(2)*****.
  
    ![](media/nm4.png)
