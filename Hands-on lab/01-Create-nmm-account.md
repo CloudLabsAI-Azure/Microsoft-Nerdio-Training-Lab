@@ -42,7 +42,40 @@ In this exercise, you'll be creating two security groups from the Azure Active D
 
 ## Exercise 2: Getting started with NMM
 
-In this exercise, you'll be accessing the NMM portal using the web app, register for **Nerdio Manager for MSP** with the help of Powershell commands, and then create your own **NMM Account** from the **NMM Portal**.
+In this exercise, you'll be accessing the azure portal to create NMM, NMM portal using the web app, register for **Nerdio Manager for MSP** with the help of Powershell commands, and then create your own **NMM Account** from the **NMM Portal**.
+
+1. On the Azure portal home page, Select the **show portal menu** ****(1)**** button and select **All services** ****(2)****.
+
+   ![](media/nm8.png)
+   
+1. Using the search bar, Search for **Nerdio Manager for MSP** ****(1)**** and select the same from the suggestion ****(2)****.
+
+   ![](media/nm9.png)
+   
+1. In Nerdio Manager for MSP page, Click on **Create**.
+
+   ![](media/nm10.png)
+   
+1. In create Nerdio Manager for MSP page, Please provide the following details and click on **Next: Review + create** ****(6)****.
+
+   - Subscription: **Select the default subscription** ***(1)***
+   - Resource group: **NMM-RG** ****(2)****
+   - Region: **<inject key="Resource group Location" />** ***(3)***
+   - Application Name: **NMMAPP** ***(4)***
+   - Managed Resource Group: **NMM-RESOURCES-RG** ***(5)***
+
+   ![](media/nm11.png)
+   
+1. In Review + create page, Provide the following details and click on **Create** ****(5)****.
+   
+   - Name: **ODL_User <inject key="DeploymentID" enableCopy="false" />** ***(1)***
+   - Preferred e-mail address: **<inject key="AzureAdUserEmail" />** ***(2)***
+   - Preffered phone number: Leave it to **default** ***(3)***
+   - Select the **check box** ****(1)**** to accept the terms and conditions ***(4)***
+
+   ![](media/nm12.png)
+   
+   >**Note**: The deployment will take 5 - 10 minutes to complete. Please Wait untill the deployment completes before proceeding with the next steps.
 
 1. On the Azure portal search for **Resource groups** in the search bar *****(1)***** and select **Resource groups** *****(2)***** from the suggestions.
 
