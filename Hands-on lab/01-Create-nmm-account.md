@@ -71,7 +71,7 @@ In this exercise, you'll be accessing the azure portal to create NMM, NMM portal
    - Name: **ODL_User <inject key="DeploymentID" enableCopy="false" />** ***(1)***
    - Preferred e-mail address: **<inject key="AzureAdUserEmail" />** ***(2)***
    - Preffered phone number: Leave it to **default** ***(3)***
-   - Select the **check box** ****(1)**** to accept the terms and conditions ***(4)***
+   - Select the **check box** ****(5)**** to accept the terms and conditions
 
    ![](media/nm12.png)
    
