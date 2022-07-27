@@ -28,11 +28,11 @@ We will be creating an account using already deployed Azure active directory dom
 
 ## **Lab 2: Create Desktop Image and Host pool**
 
-In this lab we will deploy a Azure Virtual Desktop host pool for pooled desktops. This is a set of computers or hosts which operate on an as-needed basis. In a pooled configuration we will be hosting multiple non-persistent sessions, with no user profile information stored locally. This is where FSLogix Profile Containers provide the users profile to the host dynamically. This provides the ability for an organization to fully utilize the compute resources on a single host and lower the total overhead, cost, and number of remote workstations.
+In this lab, we will deploy a Azure Virtual Desktop host pool for pooled desktops. This is a set of computers or hosts which operate on an as-needed basis. In a pooled configuration we will be hosting multiple non-persistent sessions, with no user profile information stored locally. This is where FSLogix Profile Containers provide the users profile to the host dynamically. This provides the ability for an organization to fully utilize the compute resources on a single host and lower the total overhead, cost, and number of remote workstations.
 
 ## **Lab 3: Create users and assign users to security groups**
     
-In this lab, We will create new users using Nerdio manager. Nmmuser01 will be a general AVD user and nmmuser02 will be assigned to access Microsoft Office 365. We'll assign new NMM users to AVD standard group and AVD QuickBooks users group using Nerdio manager.
+In this lab, we will create new users using Nerdio manager. Nmmuser01 will be a general AVD user and nmmuser02 will be assigned to access Microsoft Office 365. We'll assign new NMM users to AVD standard group and AVD QuickBooks users group using Nerdio manager.
     
 ## **Lab 4: How to create Custom domain for your websites (read only)**
 
@@ -40,7 +40,7 @@ This is a read-only lab where we will explore about adding custom domain name to
 
 ## **Lab 5: Configure Networking: Add NAT gateway**
 
-In this lab, We will configure NAT gateway for existing virtual network to improve security and resiliency. 
+In this lab, we will configure NAT gateway for existing virtual network to improve security and resiliency. 
 
 ## **Lab 6: Configure Autoscaling**
 
@@ -50,15 +50,15 @@ In this lab, We will configure Auto-scaling for the host pool to manage the cost
 
 ## **Lab 7: Configure App Masking and Reimage the session desktops**
 
-In this lab, We will be reimaging the session desktop to install Microsoft Office 365 and we will configure app masking in order to provide access to the Office 365 by creating rule sets in Nerdio manager.
+In this lab, we will be reimaging the session desktop to install Microsoft Office 365 and we will configure app masking in order to provide access to the Office 365 by creating rule sets in Nerdio manager.
 
 ## **Lab 8: Access Session desktop using Browser**
 
-In this lab, We will use Remote Desktop client to verify Microsoft Office 365 access and we will access file share to check the implementation of FSLogix. 
+In this lab, we will use Remote Desktop client to verify Microsoft Office 365 access and we will access file share to check the implementation of FSLogix. 
 
 ## **Lab 9: Create Back up**
 
-In this lab, We will create and link a new Recovery service vault and policies for back up and we will enable back up for session Desktop and File Share using Nerdio Manager portal.
+In this lab, we will create and link a new Recovery service vault and policies for back up and we will enable back up for session Desktop and File Share using Nerdio Manager portal.
 
 ## **Lab 10: Monitoring**
 
@@ -66,7 +66,7 @@ In this lab, we will explore statistics and performance of the AVD environment u
 
 ## **Lab 11: Cost Estimator** 
 
-In this lab, We will explore Nerdio Cost Estimator using Nerdio manager portal. 
+In this lab, we will explore Nerdio Cost Estimator using Nerdio manager portal. 
 
 Click on the **Next** button present in the bottom-right corner of this lab guide.
 
