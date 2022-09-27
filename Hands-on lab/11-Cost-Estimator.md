@@ -8,20 +8,19 @@ Cost Estimator is a tool in Nerdio Manager for MSP that figures out the cost of 
 
 In this exercise, you'll view the costs of your resources using the Cost Estimator in the NMM portal.
 
-1. From the NMM portal, click on **COST ESTIMATOR** ***(1)*** from the side blade and you will be redirected to the *COST ESTIMATOR - COST ESTIMATES* page.
+1. From the NMM portal, click on **COST ESTIMATOR** from the side blade and you will be redirected to the *COST ESTIMATOR - COST ESTIMATES* page. On the *COST ESTIMATOR - COST ESTIMATES* page select **<inject key="Resource group Location" enableCopy="false" />** for *Azure region* from drop-down and for *showing the cost in* select **USD**.
 
-    ![](media/9ss1.png)
+    ![](media/Lab-11-img2.png)
    
 1. In **STEP 1: Let's start with desktop information**, provide the following details.
 
-   * About how many users overall will use Nerdio desktops?:  **5** ***(1)*** 
+   * About how many users overall will use Virtual desktops?:  **5** ***(1)*** 
    * Minimum number of host(s):  **1** ***(2)***
    * Size:  **E4s_v4(4C/32GB/Standard)** ***(3)***
-   * Maxed out host pool in hours per week:  **40** ***(4)***
-   * Maxed out host pool at minimum size in hours per week:  **128** ***(5)***
-   * Ratio of users per CPU:  **Professional Worker (3 users)** ***(6)***
+   * User typically work:  **40** ***(4)***
+   * Ratio of users per CPU:  **Professional Worker (3 users)** ***(5)***
    
-     ![](media/9ss2.png)
+     ![](media/Lab11-Ex1-S2.png)
    
 1. In **STEP 2: SERVERS**, click on **Add server**.
 
@@ -56,7 +55,7 @@ In this exercise, you'll view the costs of your resources using the Cost Estimat
    * Azure AD DS: **Standard** ***(6)***
    * Additional storage:  **0** ***(7)***
    
-    ![](media/9ss5.png)
+    ![](media/Lab11-Ex1-S5.png)
 
 1. In **STEP 5: COST ASSUMPTIONS**, provide the following details to assume further costs.
 
@@ -68,11 +67,8 @@ In this exercise, you'll view the costs of your resources using the Cost Estimat
    * CSP software discount:  **0** ***(7)***
    * Windows 365 software discount:  **0** ***(8)***
    * Azure CSP discount for RI:  **0** ***(9)***
-   * Azure region:  **<inject key="Resource group Location" enableCopy="false" />** ***(10)***
-   * Currency:  **USD** ***(11)***
-   * Click on **View costs** ***(12)*** 
    
-    ![](media/9ss6.png)
+    ![](media/Lab11-Ex1-S6.png)
    
 1. Once you click on *View costs*, you will be able to see **COST ESTIMATES**, **RESOURCES** and **AZURE COSTS BREAKDOWN** cost details. Click on **Save**.
 
