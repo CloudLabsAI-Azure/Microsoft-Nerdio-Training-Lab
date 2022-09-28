@@ -33,14 +33,15 @@ In this exercise, We'll be creating a recovery vault and backup policies in your
 
    ![](media/7s4.png)
    
-1. Under **ADD POLICY**, provide the following details and click on **Save** ***(8)***.
+1. Under **ADD POLICY**, provide the following details and click on **Save** ***(9)***.
 
    - NAME:  **nmmvmpolicy** ***(1)***
    - TYPE:  **Virtual Machine policy** ***(2)***
    - FREQUENCY: Select **Weekly** ***(3)*** from the drop down, Select **Friday** ***(4)***, select **11 p.m.** ***(5)*** from the drop down, and select your time zone ***(6)***.
-   - RETENTION:  **1** ***(7)***
+   - SNAPSHOT: **5** ***(7)***
+   - RETENTION:  **1** ***(8)***
    
-   ![](media/7s5.png)
+   ![](media/Lab9.png)
    
 1. Under **Backup recovery vaults, policies and assignments**, Click on **Add policy**.
 
