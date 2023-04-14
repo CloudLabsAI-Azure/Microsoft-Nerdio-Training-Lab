@@ -12,15 +12,15 @@ In this exercise, you'll view the costs of your resources using the Cost Estimat
 
     ![](media/Lab-11-img2.png)
    
-1. In **STEP 1: Let's start with desktop information**, provide the following details.
+1. In **STEP 1: Let's start with desktops and physical devices information**, provide the following details.
 
-   * About how many users overall will use Virtual desktops?:  **5** ***(1)*** 
+   * How many users will use Virtual desktops?:  **5** ***(1)*** 
    * Minimum number of host(s):  **1** ***(2)***
-   * Size:  **E4s_v4(4C/32GB/Standard)** ***(3)***
+   * Size:  **E4s_v4(4C/32GB)** ***(3)***
    * User typically work:  **40** ***(4)***
    * Ratio of users per CPU:  **Professional Worker (3 users)** ***(5)***
    
-     ![](media/Lab11-Ex1-S2.png)
+     ![](media/L11-EX1-S2.png)
    
 1. In **STEP 2: SERVERS**, click on **Add server**.
 
@@ -29,12 +29,11 @@ In this exercise, you'll view the costs of your resources using the Cost Estimat
    Provide the following details to add a server.
    
    * SERVER:  **Server #1** ***(1)***
-   * INSTANCE SIZE:  **DS1_v2(1C/3.5GB/Standard)** ***(2)***
-   * OS DISK:  **128 GB (E10/Standard SSD)** ***(3)***
-   * DATA DISK:  **None** ***(4)***
-   * APPLY RI:  **Yes** ***(5)***
+   * INSTANCE SIZE:  **DS1_v2(1C/3.5GB)** ***(2)***
+   * OS DISK:  **E10 (128 GB/Standard SSD)** ***(3)***
+   * APPLY RI:  **Yes** ***(4)***
 
-    ![](media/9ss3.png)
+    ![](media/L11-EX1-S3.png)
    
 1. In **STEP 3: Licensing options**, provide the following details to assign licenses.
 
@@ -43,7 +42,9 @@ In this exercise, you'll view the costs of your resources using the Cost Estimat
    * HOW MANY?:  **5** ***(3)***
    * LICENSE:  **Windows 10 VDA** ***(4)***
    
-    ![](media/9ss4.png)
+    ![](media/L11-EX1-S4.png)
+    
+    >**Note**: Uncheck the check box of **Microsoft 365** if it is selected by default.
    
 1. In **STEP 4: OTHER FEATURES**, provide the following details to add the other features.
 
