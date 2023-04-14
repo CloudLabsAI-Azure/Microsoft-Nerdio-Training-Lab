@@ -98,13 +98,13 @@ In this exercise, We'll be verifying the user profiles stored in a file share in
 
    ![ws name.](media/4s20.png)
    
-1. You will see the user folder created in the file share, click on any one of the folder.
+1. Click on **browse (1)** , You will see the user **folder (2)** created in the file share, click on any one of the folder.
 
-   ![ws name.](media/c26.png)
+   ![ws name.](media/L8-EX2-S5.png)
    
 7. Now you will be able to see the user profiles data stored in the filesharers in a ***.vhd*** format.
 
-   ![ws name.](media/4s22.png)
+   ![ws name.](media/L8-EX2-S6.png)
      
 14. Click on the **Next** button present in the bottom-right corner of this lab guide. 
     
