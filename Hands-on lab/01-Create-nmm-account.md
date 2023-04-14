@@ -56,9 +56,9 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
 
    ![](media/ss2.png)
    
-1. From the App service page, click on the **URL** to access the Nerdio portal.
+1. From the App service page, click on the **Default domain** to access the Nerdio portal.
 
-   ![](media/ss3.png)
+   ![](media/EX2-S4.png)
    
    >**Note**: If the web page doesn't load. Please wait for 2 - 3 minutes or restart the App services and try to access the web page again.
    
@@ -74,9 +74,9 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
     
    ![](media/s5.png)
    
-1. Select **Use existing** and **JumpVM-RG** for the resource group. Select **Create new** and storage account as **storage<inject key="DeploymentID" enableCopy="false" />** and for File share Select **Create new** and give name as **blob**, then click on **Create storage** button.
+1. Select **Use existing** and **JumpVM-RG (1)** for the resource group. Select **Create new** and storage account as **storage<inject key="DeploymentID" enableCopy="false" /> (2)** and for File share Select **Create new** and give name as **blob (3)**, then click on **Create storage (4)** button.
 
-   ![](media/s6.png)
+   ![](media/EX2-S8.png)
    
 1. Once the Cloud Shell is launched, Paste the PowerShell **command** which we copied earlier in *step 5* and press **Enter**.
 
@@ -173,7 +173,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
    
    Select **Create new Azure Files share** ***(1)*** and click on **Add** ***(2)***.
    
-   ![](media/ss12.1.png)
+   ![](media/EX2-S19-D.png)
    
    provide the following details to create a new storage account for FSLogix, and click on **OK** ***(8)***
 
