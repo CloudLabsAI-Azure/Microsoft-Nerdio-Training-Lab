@@ -29,8 +29,9 @@ In this exercise, We'll be creating a Desktop Image as per the specifications in
    - VM SIZE: **D4s_v4 (4C/16GB/Standard)** ***(3)***
    - OS DISK: **128GB (E10/Standard SSD)** ***(4)***
    - Check **Join to AD** ***(5)***
+   - Turn Off the **Provide custom credentials for a local administrator user** if it is On state by default.
 
-   ![](media/am22.png)
+   ![](media/L2-EX1-S3.png)
    
    >**NOTE:** Image creation will take 25 to 30 minutes. You can continue with the lab as the image won't be used for host pool creation. We'll be using the image in Lab 7, Exercise 2.
 
@@ -91,7 +92,7 @@ In this exercise, We'll be creating a Multi-User Desktop (Pooled) AVD Host pool 
 1. Under ADD HOST TO POOL provide the following details, then click on **OK** ***(6)***
 
    - HOST COUNT: **1** ***(1)***
-   - NAME PREFIX: **AVD-SH-** ***(2)***
+   - NAME PREFIX: **AVD-SH-** ***(2)*** and check the **Append a suffix** chekbox
    - DESKTOP IMAGE: **Windows 10 (21H1) EVD - Gen2 (mutli-session)** ***(3)*** 
    - VM SIZE: **D4s_v4 (4C/16GB/Standard)** ***(4)***
    - OS DISK: **128GB (E10/Standard SSD)** ***(5)***
