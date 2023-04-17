@@ -89,7 +89,6 @@ In this exercise, We'll reimage the existing session host using desktop image wh
 
    ![](media/sa14.png)
    
-   >**Note**: In case if you don't see the **Last discovered apps** notfication in the rule set page. Follow step 6 to step 7.  Else continue from step 8. 
 
    ![](media/c23.png)
    
