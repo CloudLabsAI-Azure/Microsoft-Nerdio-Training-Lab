@@ -6,7 +6,7 @@ Scripted Actions are a library of PowerShell scripts that can be run in either A
 
 ## Exercise 1: Enable Scripted Actions
 
-In this exercise, We'll will enable scripted actions to install Microsoft Office 365.
+In this exercise, we'll enable scripted actions to install Microsoft Office 365.
 
 1. From the NMM portal, Click on the **Nerdio icon** from left top bottom to go back to home page.
 
