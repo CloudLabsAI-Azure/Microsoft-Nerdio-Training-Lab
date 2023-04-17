@@ -20,7 +20,7 @@ In this lab, We will use Remote Desktop client to verify Microsoft Office 365 ac
    
    ![ws name.](media/4s9.1.png)
 
-   - Password: Paste the password of ***nmmuser01*** which you had copied earlier *and click on **Sign in**.*
+   - Password: Paste the password of ***nmmuser01*** which you had copied earlier in **`Lab 3 -> Exercise 1 -> Step 3`** and click on **Sign in**.*
 
    ![ws name.](media/410.1.png)
    
@@ -54,7 +54,7 @@ In this lab, We will use Remote Desktop client to verify Microsoft Office 365 ac
    
    ![ws name.](media/ba5.png)
 
-   - Password: Paste the password of ***nmmuser02*** which you had copied earlier *and click on **Sign in**.*
+   - Password: Paste the password of ***nmmuser02*** which you had copied earlier in **`Lab 3 -> Exercise 1 -> Step 6`** and click on **Sign in**.*
 
    ![ws name.](media/ba6.png)
    

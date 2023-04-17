@@ -12,7 +12,7 @@ In this exercise, We'll be configuring the NAT gateway for the existing virtual 
 
    ![](media/10s1.png)
    
-1. Under **ADD NAT GATEWAY** window, Provide the following details, and Click on **OK** ***(10)***
+1. Under **ADD NAT GATEWAY** window, Provide the following details, and click on **OK** ***(10)***
 
    - NAME: **NMM_NAT** ***(1)***
    - RESOURCE GROUP: Select **AVD-RG** ***(2)*** from the drop down

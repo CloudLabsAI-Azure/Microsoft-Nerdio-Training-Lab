@@ -6,7 +6,7 @@ Contoso IT consulting services, headquartered in Los Angeles, California, is one
 
 ## **Hands-on Labs Scenario**
 
-Contoso IT consulting services has grown rapidly and this has created a new challenge. Contoso has a requirement for providing it's staff with a secured environment to access their work application and also certain staff required access to a fully managed desktop that is goverened by policies. Contoso wants their resources to provide more control and flexibility over the computing environment. They want their resources to be highly available.
+Contoso IT consulting services has grown rapidly and this has created a new challenge. Contoso has a requirement for providing it's staff with a secured environment to access their work application and also certain staff required access to a fully managed desktop that is governed  by policies. Contoso wants their resources to provide more control and flexibility over the computing environment. They want their resources to be highly available.
 
 Recently contoso is experiencing a huge rise in supporting their remote working staff, essentially staff that is working from home and because Contoso does not have a capacity to provide such huge number of managed physical computers and the Board of Directors has been unwilling to increase capital expenditures for new equipment. Contoso has been evaluating the value of the public cloud and views Microsoft Azure as an excellent option to maintain availability and increase scalability of resources to the organization. Contoso have decided to use Nerdio Manager for MSP  which is an automation and management solution hosted in Azure marketplace.
 

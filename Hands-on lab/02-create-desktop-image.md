@@ -29,7 +29,7 @@ In this exercise, We'll be creating a Desktop Image as per the specifications in
    - VM SIZE: **D4s_v4 (4C/16GB/Standard)** ***(3)***
    - OS DISK: **128GB (E10/Standard SSD)** ***(4)***
    - Check **Join to AD** ***(5)***
-   - Turn Off the **Provide custom credentials for a local administrator user** if it is On state by default.
+   - If the option to **Provide custom credentials for a local administrator user** is enabled by default, turn it Off.
 
    ![](media/L2-EX1-S3.png)
    

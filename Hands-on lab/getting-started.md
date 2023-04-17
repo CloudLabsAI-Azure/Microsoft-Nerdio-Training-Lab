@@ -40,7 +40,7 @@
 
    ![](media/gs9.png)
 
-5. You will see a list of resource groups as shown in the image below. Click on **AVD-RG** to open it. Explore the different types resources neccessary for deploying Nerdio Manager for MSPs.
+5. You will see a list of resource groups as shown in the image below. Click on **AVD-RG** to open it. Explore the different types of resources necessary for deploying Nerdio Manager for MSPs.
 
    ![](media/nm6.png)
    

@@ -6,7 +6,7 @@ Scripted Actions are a library of PowerShell scripts that can be run in either A
 
 ## Exercise 1: Enable Scripted Actions
 
-In this exercise, We'll will enable scripted actions to install Microsoft Office 365.
+In this exercise, we'll enable scripted actions to install Microsoft Office 365.
 
 1. From the NMM portal, Click on the **Nerdio icon** from left top bottom to go back to home page.
 
@@ -63,7 +63,7 @@ In this exercise, We'll reimage the existing session host using desktop image wh
 
    ![](media/2s5.png)
    
-1. In the Host pools page, click on **Manage Hosts** ***(2)*** of AVD-HP-01 host pool.
+1. In the Host pools page, click on **Manage Hosts** ***(2)*** of **AVD-HP-01 (1)** host pool.
 
    ![](media/2ss11.png)
    
@@ -89,7 +89,6 @@ In this exercise, We'll reimage the existing session host using desktop image wh
 
    ![](media/sa14.png)
    
-   >**Note**: In case if you don't see the **Last discovered apps** notfication in the rule set page. Follow step 6 to step 7.  Else continue from step 8. 
 
    ![](media/c23.png)
    

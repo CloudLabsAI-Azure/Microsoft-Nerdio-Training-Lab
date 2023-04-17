@@ -8,9 +8,9 @@ Cost Estimator is a tool in Nerdio Manager for MSP that figures out the cost of 
 
 In this exercise, you'll view the costs of your resources using the Cost Estimator in the NMM portal.
 
-1. From the NMM portal, click on **COST ESTIMATOR** from the side blade and you will be redirected to the *COST ESTIMATOR - COST ESTIMATES* page. On the *COST ESTIMATOR - COST ESTIMATES* page select **<inject key="Resource group Location" enableCopy="false" />** for *Azure region* from drop-down and for *showing the cost in* select **USD**.
+1. From the NMM portal, click on **COST ESTIMATOR** from the side blade and you will be redirected to the *COST ESTIMATOR - COST ESTIMATES* page. On the *COST ESTIMATOR - COST ESTIMATES* page select **<inject key="Resource group Location" enableCopy="false" /> (1)** for *Azure region* from drop-down and for *showing the cost in* select **USD (2)**.
 
-    ![](media/Lab-11-img2.png)
+    ![](media/L11-EX1-S1.png)
    
 1. In **STEP 1: Let's start with desktops and physical devices information**, provide the following details.
 
