@@ -17,7 +17,7 @@ In this exercise, We'll be accessing the Azure Monitor using Nerdio Manager to m
 
    ![](media/9s2.png)
    
-1. Under **Azure Virtual Desktop | Insights**, **Click** on **Overview** tab ***(1)*** and **expand** ***(2)*** the **AVD-HP-01** host pool. You'll be able to monitor the status and health of the **session hosts** ***(3)***.
+1. Under **Azure Virtual Desktop | Insights**, **Click** on **Overview** tab ***(1)*** , select and **expand** ***(2)*** the **AVD-HP-01** host pool. You'll be able to monitor the status and health of the **session hosts** ***(3)***.
 
    ![ws name.](media/9s3.png)
    
@@ -29,7 +29,7 @@ In this exercise, We'll be accessing the Azure Monitor using Nerdio Manager to m
 
    ![ws name.](media/9s4.png)
    
-**Note**: Generation of logs in users tab might take time. In case you are not able to see the logs, please consider changing the time range from overview page.   
+   **Note**: Generation of logs in users tab might take time. In case you are not able to see the logs, please consider changing the time range from overview page.   
    
 1. Click on the **Utilization** tab, This tab gives us information about sessions summary, core info, and more information about the utilization of resources.
 
