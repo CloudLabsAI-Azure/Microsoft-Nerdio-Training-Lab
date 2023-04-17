@@ -63,7 +63,7 @@ In this exercise, We'll reimage the existing session host using desktop image wh
 
    ![](media/2s5.png)
    
-1. In the Host pools page, click on **Manage Hosts** ***(2)*** of AVD-HP-01 host pool.
+1. In the Host pools page, click on **Manage Hosts** ***(2)*** of **AVD-HP-01 (1)** host pool.
 
    ![](media/2ss11.png)
    
