@@ -6,7 +6,7 @@ A custom domain is a unique branded label that's connected to the IP address of 
 
 ## Exercise 1: Create Custom Domain **(Read Only)**
 
->**NOTE**: This is a **Read-Only** exercise, Do not perform these steps. Please go through the lab guide to understand the implementation of adding custom domains.
+>**NOTE**: This is a **Read-Only** exercise, do not perform these steps. Please go through the lab guide to understand the implementation of adding custom domains.
 
 1. On the **Azure portal** search for **Resource groups** in the search bar ***(1)*** and select **Resource groups** ***(2)*** from the suggestions.
 
@@ -35,6 +35,7 @@ A custom domain is a unique branded label that's connected to the IP address of 
    - Value: the app service default URL
    - TTL: **1800** (or your preferred default)
    
+
 1. Click on **Add custom domains** ***(1)***. Under **Add custom domains**, Provide **nmm-amol-demo.nerdio.net** ***(2)*** for custom domain option and click on **Validate** ***(3)***.
    
    ![](media/6s2.png)
@@ -43,7 +44,7 @@ A custom domain is a unique branded label that's connected to the IP address of 
    
    ![](media/6s4.png)
    
-1. To ensure traffic to the new domain is secure, click **Add binding** under SSL binding:
+1. To ensure traffic to the new domain is secure, click **Add binding** under SSL binding.
    
    ![](media/c34.png)
    
@@ -55,7 +56,7 @@ A custom domain is a unique branded label that's connected to the IP address of 
 
    ![](media/6s7.png)
    
-1. Once the certificate is uploaded, associate the new domain to the certificate and click the "Add Binding" button.
+1. Once the certificate is uploaded, associate the new domain to the certificate and click the **Add Binding** button.
 
    ![](media/6s8.png)
    
@@ -69,7 +70,7 @@ A custom domain is a unique branded label that's connected to the IP address of 
 
    ![](media/6s10.png)
    
-1. Find the setting for Deployment:WebAppUrl and change it to your custom domain (without the trailing slash). Click on **OK**.
+1. Find the setting for Deployment: WebAppUrl and change it to your custom domain (without the trailing slash). Click on **OK**.
 
    ![](media/6s11.png)
    
