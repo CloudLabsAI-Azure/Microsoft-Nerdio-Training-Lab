@@ -2,7 +2,7 @@
 
 ## Overview
 
-Azure AD Security Groups are Security Principals, which means they can be used to secure objects in Azure AD. They can be created natively in Azure AD, or synced from Windows AD with Azure AD Connect. NMM Partner API allows MSPs to automate various actions in NMM via API that they can do via the NMM portal. For example, MSPs can create & manage host pools, hosts, and desktop images all via the API. In this lab, you'll be creating groups in Azure AD, accessing the NMM portal using the web app, and creating an NMM Account.
+Azure AD Security Groups are Security Principals, which means they can be used to secure objects in Azure AD. They can be created natively in Azure AD or synced from Windows AD with Azure AD Connect. NMM Partner API allows MSPs to automate various actions in NMM via API that they can do via the NMM portal. For example, MSPs can create & manage host pools, hosts, and desktop images all via the API. In this lab, you'll be creating groups in Azure AD, accessing the NMM portal using the web app, and creating an NMM Account.
 
 ## Exercise 1: Create Groups in Azure AD.
 
@@ -42,7 +42,7 @@ In this exercise, you'll be creating two security groups from the Azure Active D
 
 ## Exercise 2: Getting started with NMM
 
-In this exercise, you'll be accessing the NMM portal using the web app, register for **Nerdio Manager for MSP** with the help of Powershell commands, and then create your own **NMM Account** from the **NMM Portal**.
+In this exercise, you'll be accessing the NMM portal using the web app, register for **Nerdio Manager for MSP** with the help of PowerShell commands, and then create your own **NMM Account** from the **NMM Portal**.
 
 1. On the Azure portal search for **Resource groups** in the search bar *****(1)***** and select **Resource groups** *****(2)***** from the suggestions.
 
@@ -74,7 +74,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
     
    ![](media/s5.png)
    
-1. Select **Use existing** and **JumpVM-RG (1)** for the resource group. Select **Create new** and storage account as **storage<inject key="DeploymentID" enableCopy="false" /> (2)** and for File share Select **Create new** and give name as **blob (3)**, then click on **Create storage (4)** button.
+1. Select **Use existing** and **JumpVM-RG (1)** for the resource group. Select **Create new** and storage account as **storage<inject key="DeploymentID" enableCopy="false" /> (2)** and for File share select **Create new** and give name as **blob (3)**, then click on **Create storage (4)** button.
 
    ![](media/EX2-S8.png)
    
@@ -82,9 +82,9 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
 
    ![](media/s7.png)
 
-   >**NOTE**: The execution of the command will take 5 to 10 minutes to complete, Wait for the command to complete before proceeding with the lab.
+   >**NOTE**: The execution of the command will take 5 to 10 minutes to complete, wait for the command to complete before proceeding with the lab.
 
-   >**Note**: In case if you face an issue related to inviting `NMM_Support@getnerdio.com`, Follow from Step 10 to step 15 . Else continue from step 16.
+   >**Note**: In case if you face an issue related to inviting `NMM_Support@getnerdio.com`, Follow from Step 10 to step 15. Else continue from step 16.
 
 1. Navigate to the Azure portal, then search for **Azure Active Directory** ***(1)*** in the search bar and select **Azure Active Directory** ***(2)*** from the suggestions.
 
