@@ -175,7 +175,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
    
    ![](media/EX2-S19-D.png)
    
-   provide the following details to create a new storage account for FSLogix, and click on **OK** ***(8)***
+   provide the following details to create a new storage account for FSLogix, and click on **OK** ***(10)***.
 
    
    - Storage account: **fslogix<inject key="DeploymentID" enableCopy="false" />** ***(1)***
@@ -185,8 +185,10 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
    - File Share name: **fsprofilestore** ***(5)***
    - Provisioned capacity(GiB): **100** ***(6)***
    - Permissions (SMB Share Contributor): Type *Standard AVD* and then select **Standard AVD**, type *AVD MSOffice Users* and then select **AVD MSOffice Users** ***(7)*** from the suggestion.
+   - Make sure that button next to **Join to AD** ***(8)*** is selected.
+   - **Unselect** ***(9)*** the **Assign NTFS file-level permissions** button
 
-   ![](media/am3.png)
+   ![](media/snmm1.jpg)
    
    Click on **Save & done** and wait for the configuration to complete.
    
