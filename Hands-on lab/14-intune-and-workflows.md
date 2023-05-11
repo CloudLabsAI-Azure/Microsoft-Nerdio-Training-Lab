@@ -27,5 +27,9 @@ Microsoft Intune is a cloud-based service that focuses on mobile device manageme
 
    ![](media/snmm12.jpg) 
 
+1. In the APPLY CHANGES - NMM EDGE AUTOMATIC SIGN-IN pop-up, click on **Confirm** to save. 
+
+   ![](media/snmm13.jpg) 
+
 ## Task 2: Workflows   
 
