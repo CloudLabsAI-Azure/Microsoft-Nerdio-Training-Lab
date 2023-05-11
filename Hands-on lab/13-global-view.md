@@ -4,7 +4,7 @@ Nerdio Manager allows you to create global views that best represent your workfl
 
 In this lab, you'll be configuring global view for Backup using NMM portal.
 
-## Task 1: Create Global in NMM
+## Task 1: Create Global view using NMM portal
 
 1. click on the **Nerdio** logo to return to home page.
 
