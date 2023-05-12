@@ -7,7 +7,7 @@ Microsoft Intune is a cloud-based service that focuses on mobile device manageme
 
 ## Task 1: Add Intune Configuration profiles
 
-1. From NMM portal side blade, Click on **drop-down (1)** button next Intune and select **Configuration profiles (1)**.
+1. From NMM portal side blade, Click on **drop-down (1)** button next to Intune and select **Configuration profiles (2)**.
 
    ![](media/snmm8.jpg) 
 
@@ -31,5 +31,46 @@ Microsoft Intune is a cloud-based service that focuses on mobile device manageme
 
    ![](media/snmm13.jpg) 
 
-## Task 2: Workflows   
+## Task 2: Workflows 
+
+1. click on the **Nerdio** logo to return to home page.
+
+   ![](media/snmm2.jpg) 
+
+1. From NMM portal side blade, Click on **drop-down (1)** button next to USERS AND ROLES and select **Role assignments (2)**.
+
+   ![](media/snmm14.jpg) 
+
+1. On the role assignments tab, click on **Add**.
+
+   ![](media/snmm15.jpg) 
+
+1. In the ASSIGN ROLE TO USERS OR GROUPS pop-up, please provide the following details and click on **OK** ***(5)***.
+
+   - ROLE: **MSP ADMIN** ***(1)***
+   - ACCOUNTS: **ALL** ***(2)***
+   - USERS/GROUPS: Enter **nmmuser01** ***(3)*** and select the same from the list
+   - ACCESS EXPIRATION: **NEVER** ***(4)***
+
+    ![](media/snmm16.jpg)  
+
+1. From NMM portal side blade, Click on **drop-down (1)** button next to WORKFLOWS and select **Approval Rules (2)**.     
+
+   ![](media/snmm17.jpg)  
+
+1. In the APPROVAL RULES tab, click on **Add**.
+
+   ![](media/snmm18.jpg)  
+
+1. In the ADD APPROVAL pop-up, provide the following details and click on **OK** ***(6)***.
+
+   - Name: **Destroy Approval** ***(1)***
+   - Level: Select **MSP** ***(2)*** from the drop-down list.
+   - Task Categories: Select **Destructive** ***(3)*** from the drop-down list.
+   - Submitters: Select **MSP Admin** ***(4)*** from the drop-down list.
+   - Approvers: Select **Super Admin** ***(5)*** from the drop-down list.
+
+   ![](media/snmm19.jpg)  
+
+
 
