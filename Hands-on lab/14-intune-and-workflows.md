@@ -1,5 +1,7 @@
 # Lab 7: Intune and Workflows
 
+## Overview
+
 Microsoft Intune is a cloud-based service that focuses on mobile device management (MDM) and mobile application management (MAM). Using Microsoft Intune, you can manage your organization’s devices, laptops, tablets, Cloud PCs, and Azure Virtual Desktops.
 
 Nerdio Manager provides MSPs with a workflow-based approval system to control which tasks are run. MSPs can require approval of certain tasks to be given before they are run by designating roles for Approvers and Submitters. Approvers receive an in-app and email notification whenever a task is submitted for approval.  This helps not only to ensure efficient operations but also reduce human error especially around activities like adding a server or resizing a virtual machine that can significantly impact the cost per environment.
