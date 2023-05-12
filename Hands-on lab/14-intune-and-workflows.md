@@ -1,4 +1,4 @@
-# Lab 15: Intune and Workflows
+# Lab 8: Intune and Workflows
 
 Task 1: Intune overview
 

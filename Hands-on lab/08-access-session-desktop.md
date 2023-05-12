@@ -1,4 +1,4 @@
-# Lab 8: Access Session desktop using Browser
+# Lab 9: Access Session desktop using Browser
 
 ## Overview
 

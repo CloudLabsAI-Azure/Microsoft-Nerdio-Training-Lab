@@ -1,4 +1,4 @@
-# Lab 9: Create Backup
+# Lab 6: Create Backup
 
 ## Overview
 
