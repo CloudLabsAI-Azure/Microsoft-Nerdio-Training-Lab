@@ -33,6 +33,10 @@ Microsoft Intune is a cloud-based service that focuses on mobile device manageme
 
 ## Task 2: Workflows 
 
+Nerdio Manager provides MSPs with a workflow-based approval system to control which tasks are run. MSPs can require approval of certain tasks to be given before they are run by designating roles for Approvers and Submitters. Approvers receive an in-app and email notification whenever a task is submitted for approval.  This helps not only to ensure efficient operations but also reduce human error especially around activities like adding a server or resizing a virtual machine that can significantly impact the cost per environment. 
+
+In this task, you'll create a approval request for MSP users,
+
 1. click on the **Nerdio** logo to return to home page.
 
    ![](media/snmm2.jpg) 
