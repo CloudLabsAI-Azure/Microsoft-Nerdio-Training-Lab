@@ -1,10 +1,12 @@
 # Lab 7: Intune and Workflows
 
-Task 1: Intune overview
-
 Microsoft Intune is a cloud-based service that focuses on mobile device management (MDM) and mobile application management (MAM). Using Microsoft Intune, you can manage your organization’s devices, laptops, tablets, Cloud PCs, and Azure Virtual Desktops.
 
-## Task 1: Add Intune Configuration profiles
+Nerdio Manager provides MSPs with a workflow-based approval system to control which tasks are run. MSPs can require approval of certain tasks to be given before they are run by designating roles for Approvers and Submitters. Approvers receive an in-app and email notification whenever a task is submitted for approval.  This helps not only to ensure efficient operations but also reduce human error especially around activities like adding a server or resizing a virtual machine that can significantly impact the cost per environment.
+
+## Exercise 1: Add Intune Configuration profiles
+
+In this exercise, you'll be adding Intune configuration profile using NMM portal
 
 1. From NMM portal side blade, Click on **drop-down (1)** button next to Intune and select **Configuration profiles (2)**.
 
@@ -30,11 +32,9 @@ Microsoft Intune is a cloud-based service that focuses on mobile device manageme
 
    ![](media/snmm13.jpg) 
 
-## Task 2: Workflows 
+## Exercise 2: Workflows  
 
-Nerdio Manager provides MSPs with a workflow-based approval system to control which tasks are run. MSPs can require approval of certain tasks to be given before they are run by designating roles for Approvers and Submitters. Approvers receive an in-app and email notification whenever a task is submitted for approval.  This helps not only to ensure efficient operations but also reduce human error especially around activities like adding a server or resizing a virtual machine that can significantly impact the cost per environment. 
-
-In this task, you'll create a approval request for MSP users using NMM portal.
+In this exercise, you'll create a approval request for MSP users using NMM portal.
 
 1. click on the **Nerdio** logo to return to home page.
 
@@ -74,3 +74,5 @@ In this task, you'll create a approval request for MSP users using NMM portal.
    - Approvers: Select **Super Admin** ***(5)*** from the drop-down list.
 
    ![](media/snmm19.jpg)  
+
+1. Click on the **Next** button present in the bottom-right corner of this lab guide.

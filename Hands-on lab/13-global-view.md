@@ -2,9 +2,9 @@
 
 Nerdio Manager allows you to create global views that best represent your workflows. For example, if you manage host pools, session hosts, and user sessions, there is no need to keep jumping back and forth between pages to manage these different resources. With global views, you can combine all the resource on a single page. 
 
-In this lab, you'll be configuring global view for Backup using NMM portal.
+## Exercise 1: Create Global view using NMM portal
 
-## Task 1: Create Global view using NMM portal
+In this exercise, you'll be configuring global view for Backup using NMM portal.
 
 1. click on the **Nerdio** logo to return to home page.
 
@@ -35,4 +35,6 @@ In this lab, you'll be configuring global view for Backup using NMM portal.
 1. You'll be able to see BACKUP tab in the global view.
 
    ![](media/snmm7.jpg) 
+
+1. Click on the **Next** button present in the bottom-right corner of this lab guide.   
 
