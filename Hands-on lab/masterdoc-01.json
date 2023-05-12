@@ -24,13 +24,13 @@
            "Order": 5
          },
          {
-           "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-Nerdio-Training-Lab/main/Hands-on%20lab/05-configure-auto-scale.md",
-           "Order": 6
-         },
-         {
            "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-Nerdio-Training-Lab/main/Hands-on%20lab/09-create-backup.md",
-           "Order": 7
+           "Order": 6
           }, 
+          {
+           "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-Nerdio-Training-Lab/main/Hands-on%20lab/05-configure-auto-scale.md",
+           "Order": 7
+          },          
           {
            "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-Nerdio-Training-Lab/main/Hands-on%20lab/13-global-view.md",
            "Order": 8

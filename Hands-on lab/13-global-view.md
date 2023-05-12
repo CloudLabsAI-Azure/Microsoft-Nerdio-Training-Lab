@@ -1,4 +1,4 @@
-# Lab 7: Global multi-tenant management
+# Lab 6: Global multi-tenant management
 
 Nerdio Manager allows you to create global views that best represent your workflows. For example, if you manage host pools, session hosts, and user sessions, there is no need to keep jumping back and forth between pages to manage these different resources. With global views, you can combine all the resource on a single page. 
 
