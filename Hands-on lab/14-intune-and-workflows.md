@@ -4,7 +4,6 @@ Task 1: Intune overview
 
 Microsoft Intune is a cloud-based service that focuses on mobile device management (MDM) and mobile application management (MAM). Using Microsoft Intune, you can manage your organization’s devices, laptops, tablets, Cloud PCs, and Azure Virtual Desktops.
 
-
 ## Task 1: Add Intune Configuration profiles
 
 1. From NMM portal side blade, Click on **drop-down (1)** button next to Intune and select **Configuration profiles (2)**.
@@ -15,7 +14,7 @@ Microsoft Intune is a cloud-based service that focuses on mobile device manageme
 
    ![](media/snmm9.jpg) 
 
-1. In the ASSIGNMENTS - NMM EDGE AUTOMATIC SIGN-IN page, Click on **Add assignments**.
+1. In the ASSIGNMENTS - NMM EDGE AUTOMATIC SIGN-IN page, click on **Add assignments**.
 
    ![](media/snmm10.jpg) 
 
@@ -23,7 +22,7 @@ Microsoft Intune is a cloud-based service that focuses on mobile device manageme
 
    ![](media/snmm11.jpg) 
 
-1. After adding assigments, select **Keep in sync (1)** option and click on **Apply and close (2)**
+1. After adding assignments, select **Keep in sync (1)** option and click on **Apply and close (2)**
 
    ![](media/snmm12.jpg) 
 
@@ -35,7 +34,7 @@ Microsoft Intune is a cloud-based service that focuses on mobile device manageme
 
 Nerdio Manager provides MSPs with a workflow-based approval system to control which tasks are run. MSPs can require approval of certain tasks to be given before they are run by designating roles for Approvers and Submitters. Approvers receive an in-app and email notification whenever a task is submitted for approval.  This helps not only to ensure efficient operations but also reduce human error especially around activities like adding a server or resizing a virtual machine that can significantly impact the cost per environment. 
 
-In this task, you'll create a approval request for MSP users,
+In this task, you'll create a approval request for MSP users using NMM portal.
 
 1. click on the **Nerdio** logo to return to home page.
 
@@ -75,6 +74,3 @@ In this task, you'll create a approval request for MSP users,
    - Approvers: Select **Super Admin** ***(5)*** from the drop-down list.
 
    ![](media/snmm19.jpg)  
-
-
-

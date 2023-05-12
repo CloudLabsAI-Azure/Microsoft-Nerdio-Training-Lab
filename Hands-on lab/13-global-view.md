@@ -32,7 +32,7 @@ In this lab, you'll be configuring global view for Backup using NMM portal.
 
    ![](media/snmm6.jpg)  
 
-1. You'll be see BACKUP tab in the global view.
+1. You'll be able to see BACKUP tab in the global view.
 
    ![](media/snmm7.jpg) 
 
