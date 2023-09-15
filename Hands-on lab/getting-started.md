@@ -10,7 +10,7 @@
 
 ## Exercise 1: Log in to Azure Portal
 
-1. In the JumpVM, double click on the **Azure portal** shortcut on the desktop.
+1. In the JumpVM, double-click on the **Azure portal** shortcut on the desktop.
 
    ![azure portal.](media/gs3.png)  
 
