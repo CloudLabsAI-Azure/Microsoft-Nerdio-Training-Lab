@@ -4,11 +4,11 @@
 
 Cost Estimator is a tool in Nerdio Manager for MSP that figures out the cost of running a virtual desktop environment in Azure by walking you through a wizard-like process and gives you the clarity & confidence to determine the TCO of Azure. In this lab, you'll be viewing the costs of your resources by specifying the desired values. 
 
-## Exercise 1: View costs using Cost Estimator
+## Exercise 1: View costs using the Cost Estimator
 
 In this exercise, you'll view the costs of your resources using the Cost Estimator in the NMM portal.
 
-1. From the NMM portal, click on **COST ESTIMATOR** from the side blade and you will be redirected to the *COST ESTIMATOR - COST ESTIMATES* page. On the *COST ESTIMATOR - COST ESTIMATES* page select **<inject key="Resource group Location" enableCopy="false" /> (1)** for *Azure region* from drop-down and for *showing the cost in* select **USD (2)**.
+1. From the NMM portal, click on **COST ESTIMATOR** from the side blade and you will be redirected to the *COST ESTIMATOR - COST ESTIMATES* page. On the *COST ESTIMATOR - COST ESTIMATES* page select **<inject key="Resource group Location" enableCopy="false" /> (1)** for *Azure region* from the drop-down and for *showing the cost in* select **USD (2)**.
 
     ![](media/L11-EX1-S1.png)
    
@@ -64,18 +64,23 @@ In this exercise, you'll view the costs of your resources using the Cost Estimat
    * Bandwidth:  **1.5** ***(2)***
    * Storage operations:  **0.03** ***(3)***
    * Log Analytics Workspace:  **5** ***(4)*** & **30** ***(5)***
+   
+    ![](media/lab10-ex1-task6.png)
+
+1. In **STEP 6: DISCOUNTS**, provide the following details to assume further costs.
+
    * Azure CSP discount:  **0** ***(6)***
    * CSP software discount:  **0** ***(7)***
    * Windows 365 software discount:  **0** ***(8)***
    * Azure CSP discount for RI:  **0** ***(9)***
-   
-    ![](media/Lab11-Ex1-S6.png)
+
+    ![](media/lab10-ex1-task7.png)
    
 1. Once you click on *View costs*, you will be able to see **COST ESTIMATES**, **RESOURCES** and **AZURE COSTS BREAKDOWN** cost details. Click on **Save**.
 
-    ![](media/9ss7.png)
+    ![](media/lab10-ex1-task8a.png)
    
-    ![](media/9ss8.png)
+    ![](media/lab10-ex1-task8b.png)
    
 1. In the **SAVE AS** page, name it as **COST ESTIMATES** ***(1)*** and click on **Save** ***(2)***.
 
