@@ -24,7 +24,7 @@ In this exercise, We'll be configuring auto-scaling of an existing AVD Host Pool
    
 1. Under **HOST POOL SIZING**, Set **Base host pool capacity** to ```1``` ***(1)*** and set **Burst beyond base capacity** to ```1``` ***(2)***. Under **SCALING LOGIC**, Set **Stop or remove (scale in) hosts only from** ```7 p.m.``` to ```6 a.m.```.
 
-   ![](media/lab4-ex1-step4.png)
+   ![](media/lab5-ex1-step4.png)
    
 1. Under **PRE-STAGE HOSTS**, provide the following details, then Click on **Save** ***(5)***.
 
