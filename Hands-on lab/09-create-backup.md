@@ -43,11 +43,11 @@ In this exercise, We'll be creating a recovery vault and backup policies in your
    - Duartion(Weeks): **1** ***(9)***.
    - SNAPSHOT: **5** ***(10)***.
    
-   ![](media/lab4-ex1-step6.png)
+   ![](media/lab4-ex1-step7.png)
    
 1. Under **Backup recovery vaults, policies and assignments**, Click on **Add policy**.
 
-   ![](media/lab4-ex1-step7.png)
+   ![](media/lab4-ex1-step8.png)
    
 1. Under **ADD POLICY**, provide the following details and click on **Save** ***(7)***.
 
