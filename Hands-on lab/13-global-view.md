@@ -14,7 +14,7 @@ In this exercise, you'll be configuring a global view for Backup using the NMM p
 
 1. From the **Settings (1)** side blade, select **Global views (2)**.
 
-   ![](media/lab6-ex1-step2.jpg)
+   ![](media/lab6-ex1-step2.png)
 
 1. Click on **Add global view**.
 
