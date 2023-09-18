@@ -23,7 +23,7 @@ In this exercise, you'll be configuring a global view for Backup using the NMM p
 1. In the EDIT GLOBAL VIEW page, provide the following details to create a new global view.
 
    - NAME: **globalview-01** ***(1)***
-   - VISIBLE TO: **Only mw** ***(2)***
+   - VISIBLE TO: **Only me** ***(2)***
    - ACCOUNTS: **Azure HOL (ID)** ***(3)***
    - Resource type: scroll down in the list and select **Backups** ***(4)*** from common.
    - Leave other options to default and click on **OK** ***(5)***
