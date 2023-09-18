@@ -69,7 +69,7 @@ In this exercise, you'll create an approval request for MSP users using the NMM 
 
 1. In the ADD APPROVAL pop-up, provide the following details and click on **OK** ***(6)***.
 
-   - Name: **Destroy Approval** ***(1)***
+   - Name: **Destroy Approval** ***(1)***.
    - Level: Select **MSP** ***(2)*** from the drop-down list.
    - Task Categories: Select **Destructive** ***(3)*** from the drop-down list.
    - Submitters: Select **MSP Admin** ***(4)*** from the drop-down list.
