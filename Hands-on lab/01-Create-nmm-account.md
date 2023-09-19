@@ -40,7 +40,7 @@ In this exercise, you'll be creating two security groups from the Azure Active D
 
    ![](media/am2.png)
 
-## Exercise 2: Getting started with NMM
+## Exercise 2: Getting Started with NMM
 
 In this exercise, you'll be accessing the NMM portal using the web app, register for **Nerdio Manager for MSP** with the help of PowerShell commands, and then create your own **NMM Account** from the **NMM Portal**.
 
@@ -48,7 +48,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
 
    ![](media/c5.png)
    
-1. Select **NMM-RESOURCES-RG** from the list of resource groups. This is a dynamic RG which is created during the creation of the NMM resource. It contains all the required resources.
+1. Select **NMM-RESOURCES-RG** from the list of resource groups. This is a dynamic RG that is created during the creation of the NMM resource. It contains all the required resources.
 
    ![](media/ss1.png)
    
@@ -108,7 +108,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
    
 1. Once User is invited, Retry step 9 and the error will be resolved.
 
-1. Navigate back to the previous **browser tab** ***(1)*** and **refresh** ***(2)*** the web page. Click on **Accept** ***(3)*** to provide the neccessary permissions.
+1. Navigate back to the previous **browser tab** ***(1)*** and **refresh** ***(2)*** the web page. Click on **Accept** ***(3)*** to provide the necessary permissions.
 
    ![](media/c8.png)
    
@@ -120,7 +120,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
    
    ![](media/s9.png)
    
-1. Once registered, You'll land up in **NMM portal**. Click on **Add account** to create a new NMM account.
+1. Once registered, You'll land up in the **NMM portal**. Click on **Add account** to create a new NMM account.
 
    ![](media/s11.png)
    
@@ -132,7 +132,7 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
 
    ![](media/s12.1.png)
    
-   - If you get sign-in page like below, Click on selected account to sign-in.
+   - If you get a sign-in page like below, Click on the selected account to sign in.
 
    ![](media/c32.png)
      
@@ -140,10 +140,10 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
      
    ![](media/s12.png)
      
-   - Account name: Leave it to **Default value** ***(2)***
-   - Desktop deployment model: Select **Azure Virtual Desktop** ***(3)*** 
-   - Select subscription: Select the **Subscription** from the drop down ***(4)***
-   - Indicate your Active Directory setup: Select **Use existing Azure AD DS** ***(5)*** from the drop down
+   - Account name: Leave it to **Default value** ***(2)***.
+   - Desktop deployment model: Select **Azure Virtual Desktop** ***(3)***.
+   - Select subscription: Select the **Subscription** from the drop-down ***(4)***.
+   - Indicate your Active Directory setup: Select **Use existing Azure AD DS** ***(5)*** from the drop-down.
    
    Click on **Save & next** ***(6)*** and wait for the configuration to complete.
    
@@ -177,16 +177,15 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
    
    provide the following details to create a new storage account for FSLogix, and click on **OK** ***(10)***.
 
-   
-   - Storage account: **fslogix<inject key="DeploymentID" enableCopy="false" />** ***(1)***
-   - Resource group: Select **AVD-RG** ***(2)*** from the drop down
-   - Location: **<inject key="Resource group Location" />** ***(3)***
-   - Performance: **Premium** ***(4)***
-   - File Share name: **fsprofilestore** ***(5)***
-   - Provisioned capacity(GiB): **100** ***(6)***
+   - Storage account: **fslogix<inject key="DeploymentID" enableCopy="false" />** ***(1)***.
+   - Resource group: Select **AVD-RG** ***(2)*** from the drop down.
+   - Location: **<inject key="Resource group Location" />** ***(3)***.
+   - Performance: **Premium** ***(4)***.
+   - File Share name: **fsprofilestore** ***(5)***.
+   - Provisioned capacity(GiB): **100** ***(6)***.
    - Permissions (SMB Share Contributor): Type *Standard AVD* and then select **Standard AVD**, type *AVD MSOffice Users* and then select **AVD MSOffice Users** ***(7)*** from the suggestion.
    - Make sure that button next to **Join to AD** ***(8)*** is selected.
-   - **Unselect** ***(9)*** the **Assign NTFS file-level permissions** button
+   - **Unselect** ***(9)*** the **Assign NTFS file-level permissions** button.
 
    ![](media/snmm1.jpg)
    
@@ -198,15 +197,12 @@ In this exercise, you'll be accessing the NMM portal using the web app, register
 
    ![](media/c15.png)
    
-1. You can verify the status of account creation process as in **(1)** and also view details by clicking on **(2)**.
+1. You can verify the status of the account creation process as in **(1)** and also view details by clicking on **(2)**.
 
    ![](media/c18.png)
 
-1. Details page would appear as below:
+1. The Details page will appear as below:
 
    ![](media/c13.png)
 
 1. Click on the **Next** button present in the bottom-right corner of this lab guide.
-
-
-

@@ -26,7 +26,7 @@ In this exercise, We'll be creating a Desktop Image as per the specifications in
 
    - NAME: **AVDImage** ***(1)***
    - AZURE IMAGE: **Windows 10 (21H1) EVD - Gen2 (multi-session)** ***(2)***
-   - VM SIZE: **D4s_v4 (4C/16GB/Standard)** ***(3)***
+   - VM SIZE: **D4s_v4 / D4s_v5 (4C/16GB/Standard)** ***(3)***
    - OS DISK: **128GB (E10/Standard SSD)** ***(4)***
    - Check **Join to AD** ***(5)***
    - If the option to **Provide custom credentials for a local administrator user** is enabled by default, turn it Off.
@@ -35,11 +35,11 @@ In this exercise, We'll be creating a Desktop Image as per the specifications in
    
    >**NOTE:** Image creation will take 25 to 30 minutes. You can continue with the lab as the image won't be used for host pool creation. We'll be using the image in Lab 7, Exercise 2.
 
-1. You can verify the status of image creation process as in **(1)** and also view details by clicking on **(2)**.
+1. You can verify the status of the image creation process as in **(1)** and also view details by clicking on **(2)**.
 
    ![](media/c17.png)
 
-1. Details page would appear as below:
+1. The details page will appear as below:
 
    ![](media/c14.png)
    
@@ -61,17 +61,17 @@ In this exercise, We'll be creating a Multi-User Desktop (Pooled) AVD Host pool 
    
 1. Provide the following details to create the new host pool, then click on **OK** ***(11)***
 
-   - NAME: **AVD-HP-01** ***(1)***
-   - DESKTOP EXPERIENCE: Select **Multi user desktop (pooled)** ***(2)***
-   - DIRECTORY: Select **<inject key="Tenant FQDN" />** ***(3)*** from the drop down 
-   - FSLOGIX: **Default profile (default)** ***(4)*** from the drop down  
+   - NAME: **AVD-HP-01** ***(1)***.
+   - DESKTOP EXPERIENCE: Select **Multi-user desktop (pooled)** ***(2)***.
+   - DIRECTORY: Select **<inject key="Tenant FQDN" />** ***(3)*** from the drop-down. 
+   - FSLOGIX: **Default profile (default)** ***(4)*** from the drop-down.  
 
    ![](media/am13.png)
    
    - NEW WORKSPACE: **AVD-WS-01** ***(5)***
    - NAME PREFIX: **AVD-SH** ***(6)***
    - DESKTOP IMAGE: **Windows 10 (21H1) EVD - Gen2 (multi-session)** ***(7)***
-   - VM SIZE: **D4s_v4 (4C/16GB/Standard)** ***(8)***
+   - VM SIZE: **D4s_v4 / D4s_v5 (4C/16GB/Standard)** ***(8)***
    - OS DISK: **128GB (E10/Standard SSD)** ***(9)***
    - QUICK ASSIGN: **Leave it to default** ***(10)***
    
@@ -81,7 +81,7 @@ In this exercise, We'll be creating a Multi-User Desktop (Pooled) AVD Host pool 
  
    ![](media/2ss10.png)
    
-1. Once the host pool creation completes. You'll be able to see the **AVD-HP-01** ***(1)*** host pool. Now on click on **Manage Hosts** ***(2)***.
+1. Once the host pool creation is completed. You'll be able to see the **AVD-HP-01** ***(1)*** host pool. Now on click on **Manage Hosts** ***(2)***.
 
    ![](media/2ss11.png)
    
@@ -91,17 +91,14 @@ In this exercise, We'll be creating a Multi-User Desktop (Pooled) AVD Host pool 
    
 1. Under ADD HOST TO POOL provide the following details, then click on **OK** ***(6)***
 
-   - HOST COUNT: **1** ***(1)***
-   - NAME PREFIX: **AVD-SH-** ***(2)*** and check the **Append a suffix** chekbox
-   - DESKTOP IMAGE: **Windows 10 (21H1) EVD - Gen2 (mutli-session)** ***(3)*** 
-   - VM SIZE: **D4s_v4 (4C/16GB/Standard)** ***(4)***
-   - OS DISK: **128GB (E10/Standard SSD)** ***(5)***
+   - HOST COUNT: **1** ***(1)***.
+   - NAME PREFIX: **AVD-SH-** ***(2)*** and check the **Append a suffix** checkbox.
+   - DESKTOP IMAGE: **Windows 10 (21H1) EVD - Gen2 (mutli-session)** ***(3)***. 
+   - VM SIZE: **D4s_v4 / D4s_v5 (4C/16GB/Standard)** ***(4)***.
+   - OS DISK: **128GB (E10/Standard SSD)** ***(5)***.
 
-   ![](media/c16.png)
+   ![](media/lab2-ex2-step6.png)
    
    >**NOTE**: Session hosts creation will take around 20 to 30 minutes to complete. You can continue with the lab.
     
  1. Click on the **Next** button present in the bottom-right corner of this lab guide.
-   
-
-

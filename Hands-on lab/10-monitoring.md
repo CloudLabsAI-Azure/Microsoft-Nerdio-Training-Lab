@@ -7,19 +7,18 @@ Azure Monitor helps you maximize the availability and performance of your applic
 ## Exercise 1: Access Azure Monitor using Nerdio Manager
 
 In this exercise, We'll be accessing the Azure Monitor using Nerdio Manager to monitor the Azure Virtual Desktop. 
-
    
 1. From the left-hand side blade, Click on **MONITORING**.
 
    ![](media/9s1.png)
   
-1. Under the Monitoring Insights pop up, Click on **Continue** which will redirect to the AVD Insights page in the Azure portal.
+1. Under the Monitoring Insights pop-up, Click on **Continue** which will redirect to the AVD Insights page in the Azure portal.
 
    ![](media/9s2.png)
    
-1. Under **Azure Virtual Desktop | Insights**, **Click** on **Overview** tab ***(1)*** , select and **expand** ***(2)*** the **AVD-HP-01** host pool. You'll be able to monitor the status and health of the **session hosts** ***(3)***.
+1. Under **Azure Virtual Desktop | Insights**, **Click** on the **Overview** tab, you can go through **Capacity, Connection diagnostics: % of users able to connect, Connection performance: Time to connect (new sessions), and Utilization**.
 
-   ![ws name.](media/9s3.png)
+   ![ws name.](media/lab9-ex1-task4.png)
    
 1. Click on the **Connection Diagnostics** tab, This tab gives us information about Session connections and connectivity rate insights.
 
@@ -29,11 +28,11 @@ In this exercise, We'll be accessing the Azure Monitor using Nerdio Manager to m
 
    ![ws name.](media/9s4.png)
    
-   **Note**: Generation of logs in users tab might take time. In case you are not able to see the logs, please consider changing the time range from overview page.   
+   **Note**: Generation of logs in the users tab might take time. In case you are not able to see the logs, please consider changing the time range from the overview page.   
    
-1. Click on the **Utilization** tab, This tab gives us information about sessions summary, core info, and more information about the utilization of resources.
+1. Click on the **Utilization** tab, This tab gives us information about the session summary, core info, and more information about the utilization of resources.
 
-   ![ws name.](media/9s5.png)
+   ![ws name.](media/lab9-ex1-task6.png)
    
 1. Click on the **Clients** ***(1)*** tab, Here we'll be able to monitor the number of users connected to AVD using the browser and remote client application.
 
