@@ -1,6 +1,6 @@
-# Getting Started with Your AZ-900: Microsoft Azure Fundamentals Workshop
+# Getting Started with Your Nerdio Manager for MSP Workshop
  
-Welcome to your AZ-900: Microsoft Azure Fundamentals workshop! We've prepared a seamless environment for you to explore and learn about foundational knowledge of cloud concepts in general and Microsoft Azure in particular. Let's begin by making the most of this experience:
+Welcome to your Nerdio Manager for MSP workshop! We've prepared a seamless environment for you to explore and learn about how-to setup a working AVD environment end-to-end in a typical Enterprise model. Let's begin by making the most of this experience:
  
 ## Accessing Your Lab Environment
  
