@@ -1,50 +1,72 @@
-# Getting Started with Lab	
+# Getting Started with Your AZ-900: Microsoft Azure Fundamentals Workshop
+ 
+Welcome to your AZ-900: Microsoft Azure Fundamentals workshop! We've prepared a seamless environment for you to explore and learn about foundational knowledge of cloud concepts in general and Microsoft Azure in particular. Let's begin by making the most of this experience:
+ 
+## Accessing Your Lab Environment
+ 
+Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
+ 
+![Access Your VM and Lab Guide](media/labguide-1.png)
 
-1. Once you launch the lab, a virtual machine (JumpVM) on the left and a lab guide on the right will get loaded in your browser. Use this virtual machine throughout the workshop to perform the lab.	
+### Virtual Machine & Lab Guide
+ 
+Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
+ 
+## Exploring Your Lab Resources
+ 
+To get a better understanding of your lab resources and credentials, navigate to the **Environment Details** tab.
+ 
+![Explore Lab Resources](media/env-1.png)
+ 
+## Utilizing the Split Window Feature
+ 
+For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the Top right corner.
+ 
+![Use the Split Window Feature](media/spl.png)
+ 
+## Managing Your Virtual Machine
+ 
+Feel free to start, stop, or restart your virtual machine as needed from the **Resources** tab. Your experience is in your hands!
+ 
+![Manage Your Virtual Machine](media/res.png)
+ 
+## Let's Get Started with Azure Portal
+ 
+1. On your virtual machine, click on the Azure Portal icon as shown below:
+ 
+![Launch Azure Portal](media/sc900-image(1).png)
 
-   ![](media/gs1.png)	
-
-2. To get lab environment details, click on the **Environment Details** tab located next to the *Lab Guide* tab. 	
-
-   ![](media/gs2.png)	
-
-## Exercise 1: Log in to Azure Portal
-
-1. In the JumpVM, double-click on the **Azure portal** shortcut on the desktop.
-
-   ![azure portal.](media/gs3.png)  
-
-2. Login to Azure with the username **<inject key="AzureAdUserEmail" />** and click on **Next**.
-
-   ![](media/gs4.png)
-
-3. Enter password **<inject key="AzureAdUserPassword" />** and click on **Sign in**.
-
-   ![](media/gs5.png)
-
-   >**Note:** If there's a popup entitled **Stay signed in?** with buttons for **No** and **Yes** - Choose **No**.
-   
-   ![](media/gs6.png)
-     
-   >**Note:** If there's another popup entitled **Welcome to Microsoft Azure** with buttons for **Start Tour** and **Maybe Later** - Choose **Maybe Later**.
-   
-   >**Note:** If there's another popup entitled **Help us protect your account** click **Skip for now (14 days until this is required)**
-   
-   ![](media/gs7.png)
-    
-4. **Close** the recommendation page by clicking on the X mark.
+ 
+2. You'll see the **Sign into Microsoft Azure** tab. Here, enter your credentials:
+ 
+   - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
+ 
+![Enter Your Username](media/sc900-image-1.png)
+ 
+3. Next, provide your password:
+ 
+   - **Password:** <inject key="AzureAdUserPassword"></inject>
+ 
+![Enter Your Password](media/sc900-image-2.png)
+ 
+4. If prompted to stay signed in, you can click "No."
+ 
+5. If a **Welcome to Microsoft Azure** pop-up window appears, simply click "Maybe Later" to skip the tour.
+ 
+6. **Close** the recommendation page by clicking on the X mark.
 
    ![](media/gs8.png)
 
-4. Now in the Azure portal, click on **Resource Groups** present under Navigate.
+7. Now in the Azure portal, click on **Resource Groups** present under Navigate.
 
    ![](media/gs9.png)
 
-5. You will see a list of resource groups as shown in the image below. Click on **AVD-RG** to open it. Explore the different types of resources necessary for deploying Nerdio Manager for MSPs.
+8. You will see a list of resource groups as shown in the image below. Click on **AVD-RG** to open it. Explore the different types of resources necessary for deploying Nerdio Manager for MSPs.
 
    ![](media/nm6.png)
    
-Click on the **Next** button present in the bottom-right corner of this lab guide.
+9. Click "Next" from the bottom right corner to embark on your Lab journey!
+ 
+![Start Your Azure Journey](media/sc900-image(3).png)
 
-
-
+Now you're all set to explore the powerful world of technology. Feel free to reach out if you have any questions along the way. Enjoy your workshop!
