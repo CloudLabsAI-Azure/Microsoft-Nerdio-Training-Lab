@@ -53,19 +53,15 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
  
 5. If a **Welcome to Microsoft Azure** pop-up window appears, simply click "Maybe Later" to skip the tour.
  
-6. **Close** the recommendation page by clicking on the X mark.
-
-   ![](media/gs8.png)
-
-7. Now in the Azure portal, click on **Resource Groups** present under Navigate.
+6. Now in the Azure portal, click on **Resource Groups** present under Navigate.
 
    ![](media/gs9.png)
 
-8. You will see a list of resource groups as shown in the image below. Click on **AVD-RG** to open it. Explore the different types of resources necessary for deploying Nerdio Manager for MSPs.
+7. You will see a list of resource groups as shown in the image below. Click on **AVD-RG** to open it. Explore the different types of resources necessary for deploying Nerdio Manager for MSPs.
 
    ![](media/nm6.png)
    
-9. Click "Next" from the bottom right corner to embark on your Lab journey!
+8. Click "Next" from the bottom right corner to embark on your Lab journey!
  
 ![Start Your Azure Journey](media/sc900-image(3).png)
 
