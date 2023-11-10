@@ -55,11 +55,11 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
  
 6. Now in the Azure portal, click on **Resource Groups** present under Navigate.
 
-   ![](media/gs9.png)
+![](media/gs9.png)
 
 7. You will see a list of resource groups as shown in the image below. Click on **AVD-RG** to open it. Explore the different types of resources necessary for deploying Nerdio Manager for MSPs.
 
-   ![](media/nm6.png)
+![](media/nm6.png)
    
 8. Click "Next" from the bottom right corner to embark on your Lab journey!
  
